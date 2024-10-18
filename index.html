@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cat Table</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        img {
+            max-width: 100px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Battle Cats Information</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Index</th>
+                <th>Name</th>
+                <th>Rarity</th>
+                <th>Forms</th>
+                <th>Image</th>
+            </tr>
+        </thead>
+        <tbody id="catTableBody">
+            <!-- Rows will be dynamically populated here -->
+        </tbody>
+    </table>
+
+    <script>
+        fetch('catsData.json')
+            .then(response => response.json())
+            .then(cats => {
+                const tableBody = document.getElementById('catTableBody');
+
+                cats.forEach((cat, index) => {
+                    const row = document.createElement('tr');
+
+                    const indexCell = document.createElement('td');
+                    indexCell.textContent = index + 1;
+                    row.appendChild(indexCell);
+
+                    const nameCell = document.createElement('td');
+                    nameCell.textContent = cat.name;
+                    row.appendChild(nameCell);
+
+                    const rarityCell = document.createElement('td');
+                    rarityCell.textContent = cat.rarity;
+                    row.appendChild(rarityCell);
+
+                    const formsCell = document.createElement('td');
+                    formsCell.textContent = cat.forms;
+                    row.appendChild(formsCell);
+
+                    const imageCell = document.createElement('td');
+                    const img = document.createElement('img');
+                    img.src = cat.image;
+                    imageCell.appendChild(img);
+                    row.appendChild(imageCell);
+
+                    tableBody.appendChild(row);
+                });
+            })
+            .catch(error => {
+                console.error('Error loading cat data:', error);
+            });
+    </script>
+</body>
+</html>
