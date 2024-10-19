@@ -41,42 +41,46 @@
     </table>
 
     <script>
-        fetch('catsData.json')
-            .then(response => response.json())
-            .then(cats => {
-                const tableBody = document.getElementById('catTableBody');
+    fetch('catsData.json')
+    .then(response => response.json())
+    .then(cats => {
+        const tableBody = document.getElementById('catTableBody');
 
-                cats.forEach((cat, index) => {
-                    const row = document.createElement('tr');
+        cats.forEach((cat, index) => {
+            const row = document.createElement('tr');
 
-                    const indexCell = document.createElement('td');
-                    indexCell.textContent = index + 1;
-                    row.appendChild(indexCell);
+            const indexCell = document.createElement('td');
+            indexCell.textContent = index + 1;
+            row.appendChild(indexCell);
 
-                    const nameCell = document.createElement('td');
-                    nameCell.textContent = cat.name;
-                    row.appendChild(nameCell);
+            const nameCell = document.createElement('td');
+            const nameLink = document.createElement('a');  // Create a link element
+            nameLink.href = cat.url;  // Set the href to the cat URL
+            nameLink.textContent = cat.name;  // Set the text to the cat name
+            nameLink.target = "_blank";  // Optional: Opens the link in a new tab
+            nameCell.appendChild(nameLink);  // Append the link to the nameCell
+            row.appendChild(nameCell);
 
-                    const rarityCell = document.createElement('td');
-                    rarityCell.textContent = cat.rarity;
-                    row.appendChild(rarityCell);
+            const rarityCell = document.createElement('td');
+            rarityCell.textContent = cat.rarity;
+            row.appendChild(rarityCell);
 
-                    const formsCell = document.createElement('td');
-                    formsCell.textContent = cat.forms;
-                    row.appendChild(formsCell);
+            const formsCell = document.createElement('td');
+            formsCell.textContent = cat.forms;
+            row.appendChild(formsCell);
 
-                    const imageCell = document.createElement('td');
-                    const img = document.createElement('img');
-                    img.src = cat.image;
-                    imageCell.appendChild(img);
-                    row.appendChild(imageCell);
+            const imageCell = document.createElement('td');
+            const img = document.createElement('img');
+            img.src = cat.images[0].src;
+            imageCell.appendChild(img);
+            row.appendChild(imageCell);
 
-                    tableBody.appendChild(row);
-                });
-            })
-            .catch(error => {
-                console.error('Error loading cat data:', error);
-            });
+            tableBody.appendChild(row);
+        });
+    })
+    .catch(error => {
+        console.error('Error loading cat data:', error);
+    });
     </script>
 </body>
 </html>
