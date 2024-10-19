@@ -46,24 +46,40 @@ const fs = require('fs'); // Require the file system module
 
         await page.goto(cat.url, { waitUntil: 'networkidle2' });
 
-        // Extract all images within the tabber__panel sections for cat evolutions
+        // Extract all images within the cat_image_container for cat evolutions
         const catEvolutionImages = await page.evaluate(() => {
             const images = [];
-            const panels = document.querySelectorAll('.tabber__panel'); // Find all tabber__panel elements
+            const imageContainers = document.querySelectorAll('.cat_image_container'); // Find all cat_image_container elements
 
-            panels.forEach(panel => {
-                const imgElement = panel.querySelector('img'); // Find the image in each panel
+            imageContainers.forEach(container => {
+                const imgElement = container.querySelector('img'); // Find the image in each container
                 if (imgElement) {
                     const imgSrc = imgElement.src.startsWith('//') ? 'https:' + imgElement.src : imgElement.src;
-                    const title = panel.getAttribute('data-mw-tabber-title'); // Get the evolution form name
-                    images.push({ form: title, src: imgSrc });
+                    images.push({ src: imgSrc });
                 }
             });
+
             return images;
         });
 
+        // Extract all <th class="cat_descname"> elements within the specified table
+        const catDescNames = await page.evaluate(() => {
+            const table = document.querySelector('table.translation_en.mw-collapsible.bg-creamy-yellow.mw-made-collapsible'); // Select the table by class and id
+            if (!table) return []; // Return empty array if table is not found
+            
+            const descElements = table.querySelectorAll('th.cat_descname'); // Look for all th.cat_descname within this table
+            const descriptions = [];
+            descElements.forEach((descElement) => {
+                descriptions.push(descElement.innerText.trim()); // Extract the text content from each
+            });
+            return descriptions;
+        });
+
         cat.images = catEvolutionImages;
-        console.log(`Images for Cat #${cat.index} (${cat.name}):`, cat.images); // Logging the index with images
+        cat.catDescNames = catDescNames; // Add the description names to the cat object
+
+        console.log(`Cat #${cat.index} (${cat.name}) - Descriptions: ${cat.catDescNames}`);
+        console.log(`Images for Cat #${cat.index} (${cat.name}):`, cat.images); // Logging the index with images and descriptions
     }
 
     // Write the cat data to a JSON file
