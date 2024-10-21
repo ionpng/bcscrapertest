@@ -1,0 +1,4923 @@
+[
+  {
+    "index": 4,
+    "name": "Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Doge",
+    "image": "https://static.miraheze.org/battlecatswiki/5/57/E_000.png"
+  },
+  {
+    "index": 5,
+    "name": "Snache",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Snache",
+    "image": "https://static.miraheze.org/battlecatswiki/3/31/E_001.png"
+  },
+  {
+    "index": 6,
+    "name": "Those Guys",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Those_Guys",
+    "image": "https://static.miraheze.org/battlecatswiki/a/ad/E_002.png"
+  },
+  {
+    "index": 7,
+    "name": "Hippoe",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Hippoe",
+    "image": "https://static.miraheze.org/battlecatswiki/0/0a/E_003.png"
+  },
+  {
+    "index": 8,
+    "name": "Pigge",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Pigge",
+    "image": "https://static.miraheze.org/battlecatswiki/5/52/E_004.png"
+  },
+  {
+    "index": 9,
+    "name": "Jackie Peng",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Jackie_Peng",
+    "image": "https://static.miraheze.org/battlecatswiki/d/db/E_005.png"
+  },
+  {
+    "index": 10,
+    "name": "Gory",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Gory",
+    "image": "https://static.miraheze.org/battlecatswiki/5/58/E_006.png"
+  },
+  {
+    "index": 11,
+    "name": "Baa Baa",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Baa_Baa",
+    "image": "https://static.miraheze.org/battlecatswiki/2/2d/E_007.png"
+  },
+  {
+    "index": 12,
+    "name": "Sir Seal",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Sir_Seal",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f2/E_008.png/300px-E_008.png"
+  },
+  {
+    "index": 13,
+    "name": "Le'boin",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Le%27boin",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b5/E_009.png/300px-E_009.png"
+  },
+  {
+    "index": 14,
+    "name": "Kang Roo",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Kang_Roo",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/78/E_010.png/300px-E_010.png"
+  },
+  {
+    "index": 15,
+    "name": "One Horn",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/One_Horn",
+    "image": "https://static.miraheze.org/battlecatswiki/3/33/E_011.png"
+  },
+  {
+    "index": 16,
+    "name": "Teacher Bear",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Teacher_Bear",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e6/E_012.png/300px-E_012.png"
+  },
+  {
+    "index": 17,
+    "name": "Croco",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Croco",
+    "image": "https://static.miraheze.org/battlecatswiki/8/89/E_013.png"
+  },
+  {
+    "index": 18,
+    "name": "B.B.Bunny",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/B.B.Bunny",
+    "image": "https://static.miraheze.org/battlecatswiki/2/2f/E_014.png"
+  },
+  {
+    "index": 19,
+    "name": "Squire Rel",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Squire_Rel",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/70/E_015.png/300px-E_015.png"
+  },
+  {
+    "index": 20,
+    "name": "Assassin Bear",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Assassin_Bear",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/4c/E_016.png/300px-E_016.png"
+  },
+  {
+    "index": 21,
+    "name": "Shy Boy",
+    "type": "Red/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Shy_Boy",
+    "image": "https://static.miraheze.org/battlecatswiki/1/14/E_017.png"
+  },
+  {
+    "index": 22,
+    "name": "The Face",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/The_Face",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/3d/E_018.png/300px-E_018.png"
+  },
+  {
+    "index": 23,
+    "name": "Zoge",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Zoge",
+    "image": "https://static.miraheze.org/battlecatswiki/6/6f/E_284.png"
+  },
+  {
+    "index": 24,
+    "name": "Doge",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Doge",
+    "image": "https://static.miraheze.org/battlecatswiki/5/57/E_000.png"
+  },
+  {
+    "index": 25,
+    "name": "Ms. Sign",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Ms._Sign",
+    "image": "https://static.miraheze.org/battlecatswiki/7/70/E_021.png"
+  },
+  {
+    "index": 26,
+    "name": "Mooth",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Mooth",
+    "image": "https://static.miraheze.org/battlecatswiki/0/0c/E_022.png"
+  },
+  {
+    "index": 27,
+    "name": "Dark Emperor Nyandam",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Dark_Emperor_Nyandam",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/eb/E_023.png/299px-E_023.png"
+  },
+  {
+    "index": 28,
+    "name": "Teacher Bun Bun",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Teacher_Bun_Bun",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/9e/E_024.png/300px-E_024.png"
+  },
+  {
+    "index": 29,
+    "name": "Swordsman (form 1)",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Swordsman_(form_1)_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5a/E_025.png/300px-E_025.png"
+  },
+  {
+    "index": 30,
+    "name": "Li'l Gau (form 1)",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Li%27l_Gau_(form_1)_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c7/E_026.png/300px-E_026.png"
+  },
+  {
+    "index": 31,
+    "name": "Kerihime (form 1)",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Kerihime_(form_1)_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2d/E_027.png/300px-E_027.png"
+  },
+  {
+    "index": 32,
+    "name": "Swordsman (form 2)",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Swordsman_(form_2)_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5a/E_025.png/300px-E_025.png"
+  },
+  {
+    "index": 33,
+    "name": "Li'l Gau (form 2)",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Li%27l_Gau_(form_2)_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/12/E_029.png/300px-E_029.png"
+  },
+  {
+    "index": 34,
+    "name": "Kerihime (form 2)",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Kerihime_(form_2)_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2d/E_027.png/300px-E_027.png"
+  },
+  {
+    "index": 35,
+    "name": "Master A.",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Master_A.",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/32/E_031.png/300px-E_031.png"
+  },
+  {
+    "index": 36,
+    "name": "R.Ost",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/R.Ost",
+    "image": "https://static.miraheze.org/battlecatswiki/c/c0/E_032.png"
+  },
+  {
+    "index": 37,
+    "name": "Otta-smack-u",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Otta-smack-u",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/1a/E_033.png/300px-E_033.png"
+  },
+  {
+    "index": 38,
+    "name": "Kory",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Kory",
+    "image": "https://static.miraheze.org/battlecatswiki/4/40/E_034.png"
+  },
+  {
+    "index": 39,
+    "name": "Camelle",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Camelle",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c1/E_035.png/300px-E_035.png"
+  },
+  {
+    "index": 40,
+    "name": "Duche",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Duche",
+    "image": "https://static.miraheze.org/battlecatswiki/3/3b/E_036.png"
+  },
+  {
+    "index": 41,
+    "name": "Owlbrow",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Owlbrow",
+    "image": "https://static.miraheze.org/battlecatswiki/2/29/E_037.png"
+  },
+  {
+    "index": 42,
+    "name": "Bore",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Bore",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b1/E_038.png/300px-E_038.png"
+  },
+  {
+    "index": 43,
+    "name": "THE SLOTH",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/THE_SLOTH",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/83/E_039.png/300px-E_039.png"
+  },
+  {
+    "index": 44,
+    "name": "Rain D.",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Rain_D.",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b1/E_040.png/300px-E_040.png"
+  },
+  {
+    "index": 45,
+    "name": "Dagshund",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Dagshund",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/20/E_041.png/300px-E_041.png"
+  },
+  {
+    "index": 46,
+    "name": "Celeboodle",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Celeboodle",
+    "image": "https://static.miraheze.org/battlecatswiki/0/07/E_042.png"
+  },
+  {
+    "index": 47,
+    "name": "H. Nah",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/H._Nah",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b9/E_043.png/300px-E_043.png"
+  },
+  {
+    "index": 48,
+    "name": "Dober P.D",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Dober_P.D",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b5/E_044.png/300px-E_044.png"
+  },
+  {
+    "index": 49,
+    "name": "Ururun Wolf",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Ururun_Wolf_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5e/E_045.png/300px-E_045.png"
+  },
+  {
+    "index": 50,
+    "name": "Doge Dark",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Doge_Dark",
+    "image": "https://static.miraheze.org/battlecatswiki/6/6a/E_046.png"
+  },
+  {
+    "index": 51,
+    "name": "Metal Hippoe",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Metal_Hippoe",
+    "image": "https://static.miraheze.org/battlecatswiki/c/c6/E_047.png"
+  },
+  {
+    "index": 52,
+    "name": "St. Pigge the 2nd",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/St._Pigge_the_2nd",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/bf/E_048.png/300px-E_048.png"
+  },
+  {
+    "index": 53,
+    "name": "J.K Bun Bun",
+    "type": "Red/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/J.K_Bun_Bun",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c9/E_049.png/300px-E_049.png"
+  },
+  {
+    "index": 54,
+    "name": "Bun Bun Black",
+    "type": "Black/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Bun_Bun_Black",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/de/E_050.png/300px-E_050.png"
+  },
+  {
+    "index": 55,
+    "name": "Gory Black",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Gory_Black",
+    "image": "https://static.miraheze.org/battlecatswiki/3/3d/E_051.png"
+  },
+  {
+    "index": 56,
+    "name": "Shadow Boxer K",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Shadow_Boxer_K",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f7/E_052.png/300px-E_052.png"
+  },
+  {
+    "index": 57,
+    "name": "Director Kurosawah",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Director_Kurosawah",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/17/E_053.png/299px-E_053.png"
+  },
+  {
+    "index": 58,
+    "name": "Super Metal Hippoe",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Super_Metal_Hippoe",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/54/E_054.png/300px-E_054.png"
+  },
+  {
+    "index": 59,
+    "name": "Type 10 (Unseen)",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Type_10_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/30/E_055.png/300px-E_055.png"
+  },
+  {
+    "index": 60,
+    "name": "Type 10 (Hometown Self-Defense Force)",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Type_10_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/10/HometownType10.png/300px-HometownType10.png"
+  },
+  {
+    "index": 61,
+    "name": "Metal One Horn",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Metal_One_Horn",
+    "image": "https://static.miraheze.org/battlecatswiki/e/ea/E_056.png"
+  },
+  {
+    "index": 62,
+    "name": "Teacher Cybear",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Teacher_Cybear",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/cd/E_057.png/300px-E_057.png"
+  },
+  {
+    "index": 63,
+    "name": "CyberFace",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/CyberFace",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/8f/E_058.png/300px-E_058.png"
+  },
+  {
+    "index": 64,
+    "name": "Sir Metal Seal",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Sir_Metal_Seal",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5d/E_059.png/300px-E_059.png"
+  },
+  {
+    "index": 65,
+    "name": "Yurinchi",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Yurinchi_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b4/E_060.png/300px-E_060.png"
+  },
+  {
+    "index": 66,
+    "name": "Princess Head",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Princess_Head_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/af/E_061.png/300px-E_061.png"
+  },
+  {
+    "index": 67,
+    "name": "Chief Peng",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Chief_Peng",
+    "image": "https://static.miraheze.org/battlecatswiki/8/82/E_062.png"
+  },
+  {
+    "index": 68,
+    "name": "Dark Emperor Santa",
+    "type": "Red/Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Dark_Emperor_Santa",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d4/E_063.png/300px-E_063.png"
+  },
+  {
+    "index": 69,
+    "name": "Red Cyclone",
+    "type": "Red/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Red_Cyclone",
+    "image": "https://static.miraheze.org/battlecatswiki/8/88/E_064.png"
+  },
+  {
+    "index": 70,
+    "name": "Lione Hippoe",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Lione_Hippoe",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/73/E_065.png/300px-E_065.png"
+  },
+  {
+    "index": 71,
+    "name": "Lucky Sloth",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Lucky_Sloth",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c2/E_066.png/300px-E_066.png"
+  },
+  {
+    "index": 72,
+    "name": "Bears Be Bare",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Bears_Be_Bare",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/8d/E_067.png/300px-E_067.png"
+  },
+  {
+    "index": 73,
+    "name": "Monkey King",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Monkey_King_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/29/E_068.png/300px-E_068.png"
+  },
+  {
+    "index": 74,
+    "name": "White Cyclone",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/White_Cyclone",
+    "image": "https://static.miraheze.org/battlecatswiki/8/87/E_069.png"
+  },
+  {
+    "index": 75,
+    "name": "Black Cyclone",
+    "type": "Black/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Black_Cyclone",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/20/E_070.png/300px-E_070.png"
+  },
+  {
+    "index": 76,
+    "name": "Metal Cyclone",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Metal_Cyclone",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/ac/E_071.png/300px-E_071.png"
+  },
+  {
+    "index": 77,
+    "name": "Nimue",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Nimue_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/86/E_072.png/300px-E_072.png"
+  },
+  {
+    "index": 78,
+    "name": "Neutralization Type Nimue",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Neutralization_Type_Nimue_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/47/E_073.png/300px-E_073.png"
+  },
+  {
+    "index": 79,
+    "name": "SSS Monkey King",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/SSS_Monkey_King_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5d/E_074.png/300px-E_074.png"
+  },
+  {
+    "index": 80,
+    "name": "Crazed Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Crazed_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/e/ec/E_075.png"
+  },
+  {
+    "index": 81,
+    "name": "Crazed Tank Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Crazed_Tank_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/28/E_076.png/300px-E_076.png"
+  },
+  {
+    "index": 82,
+    "name": "Crazed Axe Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Crazed_Axe_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/4/47/E_077.png"
+  },
+  {
+    "index": 83,
+    "name": "Crazed Gross Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Crazed_Gross_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/68/E_078.png/300px-E_078.png"
+  },
+  {
+    "index": 84,
+    "name": "Crazed Cow Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Crazed_Cow_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e6/E_079.png/300px-E_079.png"
+  },
+  {
+    "index": 85,
+    "name": "Crazed Bird Cat",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Crazed_Bird_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/a/a4/E_080.png"
+  },
+  {
+    "index": 86,
+    "name": "Crazed Fish Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Crazed_Fish_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/8/84/E_081.png"
+  },
+  {
+    "index": 87,
+    "name": "Crazed Lizard Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Crazed_Lizard_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/66/E_082.png/300px-E_082.png"
+  },
+  {
+    "index": 88,
+    "name": "Crazed Titan Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Crazed_Titan_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/80/E_083.png/300px-E_083.png"
+  },
+  {
+    "index": 89,
+    "name": "Teacher A",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Teacher_A",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/0c/E_084.png/300px-E_084.png"
+  },
+  {
+    "index": 90,
+    "name": "Samurai Doggy",
+    "type": "Red/Black",
+    "url": "https://battlecats.miraheze.org/wiki/Samurai_Doggy",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/44/E_085.png/300px-E_085.png"
+  },
+  {
+    "index": 91,
+    "name": "Mega Cat",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Mega_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7c/E_086.png/300px-E_086.png"
+  },
+  {
+    "index": 92,
+    "name": "Gory Groom",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Gory_Groom",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/db/E_087.png/300px-E_087.png"
+  },
+  {
+    "index": 93,
+    "name": "Celesse",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Celesse_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/15/E_088.png/300px-E_088.png"
+  },
+  {
+    "index": 94,
+    "name": "Nono",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Nono_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/58/E_089.png/300px-E_089.png"
+  },
+  {
+    "index": 95,
+    "name": "Olga",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Olga_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f4/E_090.png/300px-E_090.png"
+  },
+  {
+    "index": 96,
+    "name": "Norn",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Norn_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/fd/E_091.png/300px-E_091.png"
+  },
+  {
+    "index": 97,
+    "name": "Yoichi",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Yoichi_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/47/E_092.png/300px-E_092.png"
+  },
+  {
+    "index": 98,
+    "name": "Serum",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Serum_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/bc/E_093.png/299px-E_093.png"
+  },
+  {
+    "index": 99,
+    "name": "Fuu",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Fuu_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c9/E_094.png/300px-E_094.png"
+  },
+  {
+    "index": 100,
+    "name": "Aura",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Aura_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7e/E_095.png/300px-E_095.png"
+  },
+  {
+    "index": 101,
+    "name": "Rei",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Rei_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f7/E_096.png/300px-E_096.png"
+  },
+  {
+    "index": 102,
+    "name": "Wyvern",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Wyvern_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/02/E_097.png/299px-E_097.png"
+  },
+  {
+    "index": 103,
+    "name": "Healer",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Healer_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/4f/E_098.png/300px-E_098.png"
+  },
+  {
+    "index": 104,
+    "name": "Sunny Celeboodle",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Sunny_Celeboodle",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/24/E_099.png/300px-E_099.png"
+  },
+  {
+    "index": 105,
+    "name": "Bearkini",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Bearkini",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/6f/E_100.png/300px-E_100.png"
+  },
+  {
+    "index": 106,
+    "name": "Lord Enma",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Lord_Enma",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2d/E_101.png/300px-E_101.png"
+  },
+  {
+    "index": 107,
+    "name": "Dashing Face",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Dashing_Face",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b8/E_102.png/300px-E_102.png"
+  },
+  {
+    "index": 108,
+    "name": "Ghost Doge",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Ghost_Doge",
+    "image": "https://static.miraheze.org/battlecatswiki/1/13/E_103.png"
+  },
+  {
+    "index": 109,
+    "name": "Ghost Snache",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Ghost_Snache",
+    "image": "https://static.miraheze.org/battlecatswiki/6/65/E_104.png"
+  },
+  {
+    "index": 110,
+    "name": "Ghost Baa Baa",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Ghost_Baa_Baa",
+    "image": "https://static.miraheze.org/battlecatswiki/c/c0/E_105.png"
+  },
+  {
+    "index": 111,
+    "name": "Fireworks Guys (High-Yield)",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Fireworks_Guys_(High-Yield)",
+    "image": "https://static.miraheze.org/battlecatswiki/4/47/E_106.png"
+  },
+  {
+    "index": 112,
+    "name": "Fireworks Guys (Low-Yield)",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Fireworks_Guys_(Low-Yield)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/58/E_107.png/300px-E_107.png"
+  },
+  {
+    "index": 113,
+    "name": "Mighty Gui Zuli",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Mighty_Gui_Zuli",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2e/E_108.png/300px-E_108.png"
+  },
+  {
+    "index": 114,
+    "name": "Hermit Peng",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Hermit_Peng",
+    "image": "https://static.miraheze.org/battlecatswiki/e/e2/E_109.png"
+  },
+  {
+    "index": 115,
+    "name": "Master Da Xun",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Master_Da_Xun",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/87/E_110.png/300px-E_110.png"
+  },
+  {
+    "index": 116,
+    "name": "Pigge Back",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Pigge_Back",
+    "image": "https://static.miraheze.org/battlecatswiki/7/77/E_111.png"
+  },
+  {
+    "index": 117,
+    "name": "Divine Cyclone",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Divine_Cyclone",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/9e/E_112.png/300px-E_112.png"
+  },
+  {
+    "index": 118,
+    "name": "Heavenly Hippoe",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Heavenly_Hippoe",
+    "image": "https://static.miraheze.org/battlecatswiki/9/9c/E_113.png"
+  },
+  {
+    "index": 119,
+    "name": "Gabriel",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Gabriel",
+    "image": "https://static.miraheze.org/battlecatswiki/a/a9/E_114.png"
+  },
+  {
+    "index": 120,
+    "name": "Angelic Gory",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Angelic_Gory",
+    "image": "https://static.miraheze.org/battlecatswiki/2/24/E_115.png"
+  },
+  {
+    "index": 121,
+    "name": "Angel Fanboy",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Angel_Fanboy",
+    "image": "https://static.miraheze.org/battlecatswiki/1/1a/E_116.png"
+  },
+  {
+    "index": 122,
+    "name": "Wall Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Wall_Doge",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/de/E_117.png/300px-E_117.png"
+  },
+  {
+    "index": 123,
+    "name": "Ginger Snache",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Ginger_Snache",
+    "image": "https://static.miraheze.org/battlecatswiki/2/24/E_118.png"
+  },
+  {
+    "index": 124,
+    "name": "Sunfish Jones",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Sunfish_Jones",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/08/E_119.png/300px-E_119.png"
+  },
+  {
+    "index": 125,
+    "name": "Birthday Cake",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Birthday_Cake_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/8e/4ggySMn.jpg/300px-4ggySMn.jpg"
+  },
+  {
+    "index": 126,
+    "name": "Dragon League Witch",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Dragon_League_Witch_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/5/5a/E_121.png"
+  },
+  {
+    "index": 127,
+    "name": "Dragon League Swordsman",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Dragon_League_Swordsman_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/1/14/E_122.png"
+  },
+  {
+    "index": 128,
+    "name": "Pigeon de Sable",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Pigeon_de_Sable",
+    "image": "https://static.miraheze.org/battlecatswiki/d/d8/E_123.png"
+  },
+  {
+    "index": 129,
+    "name": "Dark Otter",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Dark_Otter",
+    "image": "https://static.miraheze.org/battlecatswiki/f/f2/E_124.png"
+  },
+  {
+    "index": 130,
+    "name": "Angelic Sleipnir",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Angelic_Sleipnir",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/74/E_125.png/300px-E_125.png"
+  },
+  {
+    "index": 131,
+    "name": "Sunrise Doge",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Sunrise_Doge",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/0f/E_126.png/300px-E_126.png"
+  },
+  {
+    "index": 132,
+    "name": "Beefcake Cat",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Beefcake_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/01/E_127.png/300px-E_127.png"
+  },
+  {
+    "index": 133,
+    "name": "Dancer Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Dancer_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/4/49/E_128.png"
+  },
+  {
+    "index": 134,
+    "name": "Hyper Mr.",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Hyper_Mr._(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/8/87/E_129.png"
+  },
+  {
+    "index": 135,
+    "name": "Ultimate Bondage Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Ultimate_Bondage_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/0/08/E_130.png"
+  },
+  {
+    "index": 136,
+    "name": "Dark Lazer",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Dark_Lazer_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/4/47/E_131.png"
+  },
+  {
+    "index": 137,
+    "name": "Heavy Assault C.A.T.",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Heavy_Assault_C.A.T._(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7d/E_132.png/300px-E_132.png"
+  },
+  {
+    "index": 138,
+    "name": "Lollycat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Lollycat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/e/e4/E_133.png"
+  },
+  {
+    "index": 139,
+    "name": "Unicycle Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Unicycle_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/dc/E_134.png/300px-E_134.png"
+  },
+  {
+    "index": 140,
+    "name": "Flying Ninja Cat",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Flying_Ninja_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2d/E_135.png/300px-E_135.png"
+  },
+  {
+    "index": 141,
+    "name": "Skelecat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Skelecat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5f/E_136.png/300px-E_136.png"
+  },
+  {
+    "index": 142,
+    "name": "Pastry Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Pastry_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/03/E_137.png/300px-E_137.png"
+  },
+  {
+    "index": 143,
+    "name": "Riceball Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Riceball_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/62/E_138.png/300px-E_138.png"
+  },
+  {
+    "index": 144,
+    "name": "Gato Amigo",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Gato_Amigo_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/f/f2/E_139.png"
+  },
+  {
+    "index": 145,
+    "name": "Loincloth Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Loincloth_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/0e/E_140.png/300px-E_140.png"
+  },
+  {
+    "index": 146,
+    "name": "Sho Ayanokoji",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Sho_Ayanokoji_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/1c/E_141.png/300px-E_141.png"
+  },
+  {
+    "index": 147,
+    "name": "Hikaru Saotome",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Hikaru_Saotome_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/3e/E_142.png/300px-E_142.png"
+  },
+  {
+    "index": 148,
+    "name": "Hitomi Saionji",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Hitomi_Saionji_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e2/E_143.png/300px-E_143.png"
+  },
+  {
+    "index": 149,
+    "name": "Hoshi Grandmarnier",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Hoshi_Grandmarnier_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/82/E_144.png/300px-E_144.png"
+  },
+  {
+    "index": 150,
+    "name": "Shouchikubai Shiratori",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Shouchikubai_Shiratori_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/1c/E_145.png/300px-E_145.png"
+  },
+  {
+    "index": 151,
+    "name": "Trolly Blogger",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Trolly_Blogger",
+    "image": "https://static.miraheze.org/battlecatswiki/d/dc/E_146.png"
+  },
+  {
+    "index": 152,
+    "name": "Metal Doge",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Metal_Doge",
+    "image": "https://static.miraheze.org/battlecatswiki/8/82/E_147.png"
+  },
+  {
+    "index": 153,
+    "name": "Li'l Nyandam",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Li%27l_Nyandam_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/31/E_148.png/300px-E_148.png"
+  },
+  {
+    "index": 154,
+    "name": "Le'noir",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Le%27noir",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/61/E_149.png/300px-E_149.png"
+  },
+  {
+    "index": 155,
+    "name": "Young Man Mola",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Young_Man_Mola_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/8/8d/E_150.png"
+  },
+  {
+    "index": 156,
+    "name": "Mola King",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Mola_King_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/90/E_151.png/300px-E_151.png"
+  },
+  {
+    "index": 157,
+    "name": "Ayumi Manbosaki",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Ayumi_Manbosaki",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/cc/E_152.png/300px-E_152.png"
+  },
+  {
+    "index": 158,
+    "name": "Crab",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Crab",
+    "image": "https://static.miraheze.org/battlecatswiki/0/0e/E_153.png"
+  },
+  {
+    "index": 159,
+    "name": "Sardine",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Sardine_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/f/f7/E_154.png"
+  },
+  {
+    "index": 160,
+    "name": "Squid",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Squid_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/7/7b/E_155.png"
+  },
+  {
+    "index": 161,
+    "name": "Marching Kory",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Marching_Kory",
+    "image": "https://static.miraheze.org/battlecatswiki/2/28/E_156.png"
+  },
+  {
+    "index": 162,
+    "name": "Sakura Android",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Sakura_Android_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/55/E_157.png/300px-E_157.png"
+  },
+  {
+    "index": 163,
+    "name": "Takuya",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Takuya_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d1/E_158.png/300px-E_158.png"
+  },
+  {
+    "index": 164,
+    "name": "Yuki",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Yuki_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b5/E_159.png/300px-E_159.png"
+  },
+  {
+    "index": 165,
+    "name": "Chickful A",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Chickful_A",
+    "image": "https://static.miraheze.org/battlecatswiki/d/d8/E_160.png"
+  },
+  {
+    "index": 166,
+    "name": "Mob Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Mob_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/18/E_161.png/299px-E_161.png"
+  },
+  {
+    "index": 167,
+    "name": "Yakuza Vampire",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Yakuza_Vampire_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5b/E_162.png/300px-E_162.png"
+  },
+  {
+    "index": 168,
+    "name": "Hearscht",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Hearscht_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/0a/E_163.png/300px-E_163.png"
+  },
+  {
+    "index": 169,
+    "name": "Cornelia",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Cornelia_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/73/E_164.png/300px-E_164.png"
+  },
+  {
+    "index": 170,
+    "name": "Alois",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Alois_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/8f/E_165.png/300px-E_165.png"
+  },
+  {
+    "index": 171,
+    "name": "Healer Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Healer_Cat",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/97/E_166.png/300px-E_166.png"
+  },
+  {
+    "index": 172,
+    "name": "Shibalien",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/Shibalien",
+    "image": "https://static.miraheze.org/battlecatswiki/5/58/E_167.png"
+  },
+  {
+    "index": 173,
+    "name": "Kroxo",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/Kroxo",
+    "image": "https://static.miraheze.org/battlecatswiki/a/a2/E_168.png"
+  },
+  {
+    "index": 174,
+    "name": "Hyppoh",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/Hyppoh",
+    "image": "https://static.miraheze.org/battlecatswiki/d/da/E_169.png"
+  },
+  {
+    "index": 175,
+    "name": "Imperator Sael",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/Imperator_Sael",
+    "image": "https://static.miraheze.org/battlecatswiki/5/5b/E_170.png"
+  },
+  {
+    "index": 176,
+    "name": "Maawth",
+    "type": "Alien/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Maawth",
+    "image": "https://static.miraheze.org/battlecatswiki/c/c8/E_171.png"
+  },
+  {
+    "index": 177,
+    "name": "LeMurr",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/LeMurr",
+    "image": "https://static.miraheze.org/battlecatswiki/6/62/E_172.png"
+  },
+  {
+    "index": 178,
+    "name": "Helmut Krabbe",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/Helmut_Krabbe",
+    "image": "https://static.miraheze.org/battlecatswiki/c/c7/E_173.png"
+  },
+  {
+    "index": 179,
+    "name": "I.M. Phace",
+    "type": "Alien/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/I.M._Phace",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/51/E_174.png/300px-E_174.png"
+  },
+  {
+    "index": 180,
+    "name": "Ursamajor",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/Ursamajor",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2a/E_175.png/300px-E_175.png"
+  },
+  {
+    "index": 181,
+    "name": "Cli-One",
+    "type": "Alien/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Cli-One",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/91/E_176.png/300px-E_176.png"
+  },
+  {
+    "index": 182,
+    "name": "Nimoy Bore",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/Nimoy_Bore",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d3/E_177.png/300px-E_177.png"
+  },
+  {
+    "index": 183,
+    "name": "Elizabeth the LVIth",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/Elizabeth_the_LVIth",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/10/E_178.png/300px-E_178.png"
+  },
+  {
+    "index": 184,
+    "name": "Cosmic Cyclone",
+    "type": "Alien/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Cosmic_Cyclone",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/4c/E_179.png/300px-E_179.png"
+  },
+  {
+    "index": 185,
+    "name": "Galactic Overseer Nyandam",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/Galactic_Overseer_Nyandam",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/9c/E_180.png/300px-E_180.png"
+  },
+  {
+    "index": 186,
+    "name": "Corrupted Valkyrie",
+    "type": "Alien/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Corrupted_Valkyrie",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7c/E_181.png/300px-E_181.png"
+  },
+  {
+    "index": 187,
+    "name": "Scissoroo",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/Scissoroo",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/ea/E_182.png/300px-E_182.png"
+  },
+  {
+    "index": 188,
+    "name": "Cyberhorn",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/Cyberhorn",
+    "image": "https://static.miraheze.org/battlecatswiki/1/19/E_183.png"
+  },
+  {
+    "index": 189,
+    "name": "Mistress Celeboodle",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/Mistress_Celeboodle",
+    "image": "https://static.miraheze.org/battlecatswiki/b/bb/E_184.png"
+  },
+  {
+    "index": 190,
+    "name": "Professor A.",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Professor_A.",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f9/E_185.png/300px-E_185.png"
+  },
+  {
+    "index": 191,
+    "name": "20/30/40/50/60/70/80 Million DL Anniversary Birthday Cake",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/DL_Anniversary_Birthday_Cake_(Event_Enemy)",
+    "image": null
+  },
+  {
+    "index": 192,
+    "name": "Rathalos",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Rathalos_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/db/E_187.png/300px-E_187.png"
+  },
+  {
+    "index": 193,
+    "name": "Rathian",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Rathian_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/cf/E_188.png/299px-E_188.png"
+  },
+  {
+    "index": 194,
+    "name": "MARS PEOPLE",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/MARS_PEOPLE_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/1/15/E_189.png"
+  },
+  {
+    "index": 195,
+    "name": "DONALD MORDEN",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/DONALD_MORDEN_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/32/E_190.png/300px-E_190.png"
+  },
+  {
+    "index": 196,
+    "name": "ALLEN O'NEIL",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/ALLEN_O%27NEIL_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/a/ae/E_191.png"
+  },
+  {
+    "index": 197,
+    "name": "MARCO",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/MARCO_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/5/5f/E_192.png"
+  },
+  {
+    "index": 198,
+    "name": "SV-001",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/SV-001_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/0/04/E_193.png"
+  },
+  {
+    "index": 199,
+    "name": "HUGE HERMIT",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/HUGE_HERMIT_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5c/E_194.png/300px-E_194.png"
+  },
+  {
+    "index": 200,
+    "name": "JUPITER KING",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/JUPITER_KING_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7c/E_195.png/300px-E_195.png"
+  },
+  {
+    "index": 201,
+    "name": "HI-DO",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/HI-DO_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/23/E_196.png/300px-E_196.png"
+  },
+  {
+    "index": 202,
+    "name": "Pumpkin Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Pumpkin_Doge",
+    "image": "https://static.miraheze.org/battlecatswiki/4/4d/E_197.png"
+  },
+  {
+    "index": 203,
+    "name": "Count Owlbrow",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Count_Owlbrow",
+    "image": "https://static.miraheze.org/battlecatswiki/f/f2/E_198.png"
+  },
+  {
+    "index": 204,
+    "name": "Vlad de Sable",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Vlad_de_Sable",
+    "image": "https://static.miraheze.org/battlecatswiki/c/cf/E_199.png"
+  },
+  {
+    "index": 205,
+    "name": "Valkyrie",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Junior_God_of_Light_-_Valkyrie_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/4/42/E_200.png"
+  },
+  {
+    "index": 206,
+    "name": "Brynhildr",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Junior_God_Brynhildr_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/a/ae/E_201.png"
+  },
+  {
+    "index": 207,
+    "name": "Suruzu",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Junior_God_Suruzu_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5c/E_202.png/300px-E_202.png"
+  },
+  {
+    "index": 208,
+    "name": "Freya",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Goddess_of_Abundance_-_Freya_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/4/40/E_203.png"
+  },
+  {
+    "index": 209,
+    "name": "Odin",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/God_of_War_-_Odin_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/47/E_204.png/300px-E_204.png"
+  },
+  {
+    "index": 210,
+    "name": "Capy",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Capy",
+    "image": "https://static.miraheze.org/battlecatswiki/1/19/E_205.png"
+  },
+  {
+    "index": 211,
+    "name": "Berserkory",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Berserkory",
+    "image": "https://static.miraheze.org/battlecatswiki/1/1f/E_206.png"
+  },
+  {
+    "index": 212,
+    "name": "Brollow",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Brollow",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c3/E_207.png/300px-E_207.png"
+  },
+  {
+    "index": 213,
+    "name": "Calamary",
+    "type": "Alien/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Calamary",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/9f/E_208.png/300px-E_208.png"
+  },
+  {
+    "index": 214,
+    "name": "Alpacky",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/Alpacky",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/bd/E_209.png/300px-E_209.png"
+  },
+  {
+    "index": 215,
+    "name": "Elder Sloth",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/Elder_Sloth",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/75/E_210.png/300px-E_210.png"
+  },
+  {
+    "index": 216,
+    "name": "Bun Bun Symbiote",
+    "type": "Alien/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Bun_Bun_Symbiote",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/ac/E_211.png/300px-E_211.png"
+  },
+  {
+    "index": 217,
+    "name": "Raging Bahamut Cat",
+    "type": "Alien/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Raging_Bahamut_Cat",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/ce/E_212.png/300px-E_212.png"
+  },
+  {
+    "index": 218,
+    "name": "Christmas D.",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Christmas_D.",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/44/E_213.png/300px-E_213.png"
+  },
+  {
+    "index": 219,
+    "name": "Castle Guard",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Castle_Guard",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/ba/E_214.png/300px-E_214.png"
+  },
+  {
+    "index": 220,
+    "name": "Castle Horseman",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Castle_Horseman",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c4/E_215.png/300px-E_215.png"
+  },
+  {
+    "index": 221,
+    "name": "Ashura",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Ashura_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/8f/E_216.png/299px-E_216.png"
+  },
+  {
+    "index": 222,
+    "name": "Battle Balloon",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Battle_Balloon_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/9e/E_217.png/300px-E_217.png"
+  },
+  {
+    "index": 223,
+    "name": "Dragon Rider",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Dragon_Rider_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c6/E_218.png/300px-E_218.png"
+  },
+  {
+    "index": 224,
+    "name": "Pretty Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Pretty_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/bc/E_219.png/299px-E_219.png"
+  },
+  {
+    "index": 225,
+    "name": "Cyclops",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Cyclops_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/76/E_220.png/300px-E_220.png"
+  },
+  {
+    "index": 226,
+    "name": "Golem",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Golem_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/39/E_221.png/300px-E_221.png"
+  },
+  {
+    "index": 227,
+    "name": "Wise Swordsman",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Wise_Swordsman",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d3/E_222.png/300px-E_222.png"
+  },
+  {
+    "index": 228,
+    "name": "Black Thunder Rider",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Black_Thunder_Rider",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/33/E_223.png/300px-E_223.png"
+  },
+  {
+    "index": 229,
+    "name": "Kabuki Ashura",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Kabuki_Ashura",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/37/E_224.png/300px-E_224.png"
+  },
+  {
+    "index": 230,
+    "name": "Battle UFO",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Battle_UFO",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/91/E_225.png/234px-E_225.png"
+  },
+  {
+    "index": 231,
+    "name": "Flame Dragon Rider",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Flame_Dragon_Rider_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/00/E_226.png/300px-E_226.png"
+  },
+  {
+    "index": 232,
+    "name": "Cyber Pretty Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Cyber_Pretty_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c2/E_227.png/300px-E_227.png"
+  },
+  {
+    "index": 233,
+    "name": "4D Cyclops",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/4D_Cyclops",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/43/E_228.png/300px-E_228.png"
+  },
+  {
+    "index": 234,
+    "name": "Volcano Golem",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Volcano_Golem_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/99/E_229.png/300px-E_229.png"
+  },
+  {
+    "index": 235,
+    "name": "Prisoner Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Prisoner_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/22/E_230.png/300px-E_230.png"
+  },
+  {
+    "index": 236,
+    "name": "Gentleman Bros.",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Gentleman_Bros._(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/1/11/E_231.png"
+  },
+  {
+    "index": 237,
+    "name": "Cruel Angel Clionel",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Cruel_Angel_Clionel",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/59/E_232.png/300px-E_232.png"
+  },
+  {
+    "index": 238,
+    "name": "Nyalladin",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Nyalladin_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/3d/E_233.png/300px-E_233.png"
+  },
+  {
+    "index": 239,
+    "name": "Wrestling Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Wrestling_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/28/E_234.png/300px-E_234.png"
+  },
+  {
+    "index": 240,
+    "name": "Mr. Mole",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Mr._Mole",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/0f/E_235.png/300px-E_235.png"
+  },
+  {
+    "index": 241,
+    "name": "The Perfect Cyclone",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/The_Perfect_Cyclone",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2a/E_236.png/299px-E_236.png"
+  },
+  {
+    "index": 242,
+    "name": "Nyamusu",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Nyamusu_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/22/E_237.png/300px-E_237.png"
+  },
+  {
+    "index": 243,
+    "name": "Pochi",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Pochi_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/27/E_238.png/300px-E_238.png"
+  },
+  {
+    "index": 244,
+    "name": "Kuromi",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Kuromi_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/00/E_239.png/300px-E_239.png"
+  },
+  {
+    "index": 245,
+    "name": "Setsuko",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Setsuko_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5f/E_240.png/300px-E_240.png"
+  },
+  {
+    "index": 246,
+    "name": "Nebaaru-kun",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Nebaaru-kun_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f0/E_241.png/300px-E_241.png"
+  },
+  {
+    "index": 247,
+    "name": "Manic Mohawk Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Manic_Mohawk_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/c/ca/E_242.png"
+  },
+  {
+    "index": 248,
+    "name": "Manic Eraser Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Manic_Eraser_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/4/4a/E_243.png"
+  },
+  {
+    "index": 249,
+    "name": "Manic Dark Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Manic_Dark_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/b/be/E_244.png"
+  },
+  {
+    "index": 250,
+    "name": "Manic Macho Legs",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Manic_Macho_Legs_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/40/E_245.png/300px-E_245.png"
+  },
+  {
+    "index": 251,
+    "name": "Manic Lion Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Manic_Lion_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d5/E_246.png/300px-E_246.png"
+  },
+  {
+    "index": 252,
+    "name": "Manic Flying Cat",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Manic_Flying_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f4/E_247.png/300px-E_247.png"
+  },
+  {
+    "index": 253,
+    "name": "Manic Island Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Manic_Island_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/41/E_248.png/300px-E_248.png"
+  },
+  {
+    "index": 254,
+    "name": "Manic King Dragon",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Manic_King_Dragon_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b0/E_249.png/300px-E_249.png"
+  },
+  {
+    "index": 255,
+    "name": "Manic Jamiera Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Manic_Jamiera_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/a9/E_250.png/300px-E_250.png"
+  },
+  {
+    "index": 256,
+    "name": "Kiss and Koi",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Kiss_and_Koi_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5b/E_251.png/300px-E_251.png"
+  },
+  {
+    "index": 257,
+    "name": "Madam the Savannah",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Madam_the_Savannah_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/6c/E_252.png/300px-E_252.png"
+  },
+  {
+    "index": 258,
+    "name": "Call Center Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Call_Center_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/f/f4/E_253.png"
+  },
+  {
+    "index": 259,
+    "name": "Mr. Angel",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Mr._Angel",
+    "image": "https://static.miraheze.org/battlecatswiki/b/b7/E_254.png"
+  },
+  {
+    "index": 260,
+    "name": "Two Can",
+    "type": "Red/Black",
+    "url": "https://battlecats.miraheze.org/wiki/Two_Can",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/74/E_255.png/300px-E_255.png"
+  },
+  {
+    "index": 261,
+    "name": "Tackey",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Tackey",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7e/E_256.png/300px-E_256.png"
+  },
+  {
+    "index": 262,
+    "name": "King Wahwah",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/King_Wahwah",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7c/E_257.png/300px-E_257.png"
+  },
+  {
+    "index": 263,
+    "name": "Codename \"Red Riding\"",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Codename_%22Red_Riding%22",
+    "image": "https://static.miraheze.org/battlecatswiki/6/64/E_258.png"
+  },
+  {
+    "index": 264,
+    "name": "Takuya and Lovely Yuki",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Takuya_and_Lovely_Yuki_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/af/E_259.png/300px-E_259.png"
+  },
+  {
+    "index": 265,
+    "name": "Kite Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Kite_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e6/E_260.png/299px-E_260.png"
+  },
+  {
+    "index": 266,
+    "name": "Boraphim",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Boraphim",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/72/E_261.png/299px-E_261.png"
+  },
+  {
+    "index": 267,
+    "name": "Ritual Drum Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Ritual_Drum_Doge",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/24/E_262.png/299px-E_262.png"
+  },
+  {
+    "index": 268,
+    "name": "Festive Otter",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Festive_Otter",
+    "image": "https://static.miraheze.org/battlecatswiki/1/1f/E_263.png"
+  },
+  {
+    "index": 269,
+    "name": "Funghi",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Funghi_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f9/E_264.png/300px-E_264.png"
+  },
+  {
+    "index": 270,
+    "name": "Iron Claw X",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Iron_Claw_X_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/43/E_265.png/300px-E_265.png"
+  },
+  {
+    "index": 271,
+    "name": "Henry",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Henry",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2d/E_266.png/300px-E_266.png"
+  },
+  {
+    "index": 272,
+    "name": "Hannya",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Hannya",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/a5/E_267.png/300px-E_267.png"
+  },
+  {
+    "index": 273,
+    "name": "Package Doge",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Package_Doge_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e9/E_268.png/300px-E_268.png"
+  },
+  {
+    "index": 274,
+    "name": "Futenyan",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Futenyan_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/93/E_269.png/300px-E_269.png"
+  },
+  {
+    "index": 275,
+    "name": "Rampage Cats",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Rampage_Cats_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5a/E_270.png/300px-E_270.png"
+  },
+  {
+    "index": 276,
+    "name": "Queen B",
+    "type": "Alien/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Queen_B",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7f/E_271.png/300px-E_271.png"
+  },
+  {
+    "index": 277,
+    "name": "Li'l Bun Bun",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Li%27l_Bun_Bun",
+    "image": "https://static.miraheze.org/battlecatswiki/2/2b/E_272.png"
+  },
+  {
+    "index": 278,
+    "name": "Gertrud",
+    "type": "Witch",
+    "url": "https://battlecats.miraheze.org/wiki/Gertrud_(Witch)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/31/E_273.png/300px-E_273.png"
+  },
+  {
+    "index": 279,
+    "name": "Charlotte (Snake Form)",
+    "type": "Witch",
+    "url": "https://battlecats.miraheze.org/wiki/Charlotte_(Snake)_(Witch)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/1c/E_274.png/300px-E_274.png"
+  },
+  {
+    "index": 280,
+    "name": "Charlotte (Doll Form)",
+    "type": "Witch",
+    "url": "https://battlecats.miraheze.org/wiki/Charlotte_(Doll)_(Witch)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e6/E_275.png/300px-E_275.png"
+  },
+  {
+    "index": 281,
+    "name": "Kirsten",
+    "type": "Witch",
+    "url": "https://battlecats.miraheze.org/wiki/Kirsten_(Witch)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/64/E_276.png/300px-E_276.png"
+  },
+  {
+    "index": 282,
+    "name": "Walpurgisnacht",
+    "type": "Witch",
+    "url": "https://battlecats.miraheze.org/wiki/Walpurgisnacht_(Witch)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/3f/E_277.png/300px-E_277.png"
+  },
+  {
+    "index": 283,
+    "name": "Kyubey (form 1)",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Kyubey_(form_1)_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/bd/E_278.png/300px-E_278.png"
+  },
+  {
+    "index": 284,
+    "name": "Ritual Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Ritual_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/89/E_279.png/300px-E_279.png"
+  },
+  {
+    "index": 285,
+    "name": "Razorback",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Razorback",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d6/E_280.png/300px-E_280.png"
+  },
+  {
+    "index": 286,
+    "name": "Festival Sign Girl",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Festival_Sign_Girl",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7c/E_281.png/300px-E_281.png"
+  },
+  {
+    "index": 287,
+    "name": "Vendor El",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Vendor_El",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d2/E_282.png/300px-E_282.png"
+  },
+  {
+    "index": 288,
+    "name": "Scarecrow",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Scarecrow_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/f/ff/E_283.png"
+  },
+  {
+    "index": 289,
+    "name": "Zoge",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Zoge",
+    "image": "https://static.miraheze.org/battlecatswiki/6/6f/E_284.png"
+  },
+  {
+    "index": 290,
+    "name": "Znache",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Znache",
+    "image": "https://static.miraheze.org/battlecatswiki/7/71/E_285.png"
+  },
+  {
+    "index": 291,
+    "name": "Zomboe",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Zomboe",
+    "image": "https://static.miraheze.org/battlecatswiki/6/60/E_286.png"
+  },
+  {
+    "index": 292,
+    "name": "Zigge",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Zigge",
+    "image": "https://static.miraheze.org/battlecatswiki/4/48/E_287.png"
+  },
+  {
+    "index": 293,
+    "name": "Zackie Peng",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Zackie_Peng",
+    "image": "https://static.miraheze.org/battlecatswiki/2/2f/E_288.png"
+  },
+  {
+    "index": 294,
+    "name": "Zory",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Zory",
+    "image": "https://static.miraheze.org/battlecatswiki/2/23/E_289.png"
+  },
+  {
+    "index": 295,
+    "name": "Zir Zeal",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Zir_Zeal",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/06/E_290.png/300px-E_290.png"
+  },
+  {
+    "index": 296,
+    "name": "Zang Roo",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Zang_Roo",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e5/E_291.png/300px-E_291.png"
+  },
+  {
+    "index": 297,
+    "name": "Zroco",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Zroco",
+    "image": "https://static.miraheze.org/battlecatswiki/f/fe/E_292.png"
+  },
+  {
+    "index": 298,
+    "name": "Lord Gravey",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Lord_Gravey",
+    "image": "https://static.miraheze.org/battlecatswiki/c/ce/E_293.png"
+  },
+  {
+    "index": 299,
+    "name": "Zyclone",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Zyclone",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/0d/E_294.png/300px-E_294.png"
+  },
+  {
+    "index": 300,
+    "name": "Xmas Pudding Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Xmas_Pudding_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/1a/E_295.png/300px-E_295.png"
+  },
+  {
+    "index": 301,
+    "name": "Mega Cat EX",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Mega_Cat_EX_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/bd/E_296.png/299px-E_296.png"
+  },
+  {
+    "index": 302,
+    "name": "4th Anniversary Birthday Cake",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/4th_Anniversary_Birthday_Cake_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7c/E_297.png/300px-E_297.png"
+  },
+  {
+    "index": 303,
+    "name": "Niconico TV",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Niconico_TV_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/5/5b/E_298.png"
+  },
+  {
+    "index": 304,
+    "name": "W (form 1)",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/W_(form_1)_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/0a/E_299.png/300px-E_299.png"
+  },
+  {
+    "index": 305,
+    "name": "W (form 2)",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/W_(form_2)_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/86/E_300.png/300px-E_300.png"
+  },
+  {
+    "index": 306,
+    "name": "W (form 3)",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/W_(form_3)_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c5/E_301.png/300px-E_301.png"
+  },
+  {
+    "index": 307,
+    "name": "Neko Hakase",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Neko_Hakase_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/53/E_302.png/300px-E_302.png"
+  },
+  {
+    "index": 308,
+    "name": "Miss Haka",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Miss_Haka",
+    "image": "https://static.miraheze.org/battlecatswiki/3/32/E_303.png"
+  },
+  {
+    "index": 309,
+    "name": "Big Sal",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Big_Sal",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/dd/E_304.png/300px-E_304.png"
+  },
+  {
+    "index": 310,
+    "name": "Pikotaro",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Pikotaro_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/4/4c/E_305.png"
+  },
+  {
+    "index": 311,
+    "name": "Le'mammoth",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Le%27mammoth",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d2/E_306.png/300px-E_306.png"
+  },
+  {
+    "index": 312,
+    "name": "Ice Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Ice_Doge",
+    "image": "https://static.miraheze.org/battlecatswiki/2/20/E_307.png"
+  },
+  {
+    "index": 313,
+    "name": "Snowball",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Snowball",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/af/E_308.png/300px-E_308.png"
+  },
+  {
+    "index": 314,
+    "name": "Coffin Zoge",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Coffin_Zoge",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/68/E_309.png/300px-E_309.png"
+  },
+  {
+    "index": 315,
+    "name": "Zamelle",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Zamelle",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/17/E_310.png/300px-E_310.png"
+  },
+  {
+    "index": 316,
+    "name": "Killer Cat",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Killer_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/f/fc/E_311.png"
+  },
+  {
+    "index": 317,
+    "name": "Corrupted Cat Base",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Corrupted_Cat_Base_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/6/6b/E_312.png"
+  },
+  {
+    "index": 318,
+    "name": "Hiroshi Mihara",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Hiroshi_Mihara_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/7/7d/E_313.png"
+  },
+  {
+    "index": 319,
+    "name": "Nazousagi",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Nazousagi_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c4/E_314.png/300px-E_314.png"
+  },
+  {
+    "index": 320,
+    "name": "Doge Base",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Doge_Base_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/8/83/E_315.png"
+  },
+  {
+    "index": 321,
+    "name": "Inumusha",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Inumusha",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/a8/E_316.png/300px-E_316.png"
+  },
+  {
+    "index": 322,
+    "name": "Daboo of the Dead",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Daboo_of_the_Dead",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e0/E_317.png/300px-E_317.png"
+  },
+  {
+    "index": 323,
+    "name": "Dolphina",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Dolphina",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e3/E_318.png/300px-E_318.png"
+  },
+  {
+    "index": 324,
+    "name": "Mobius",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Mobius_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/75/E_319.png/300px-E_319.png"
+  },
+  {
+    "index": 325,
+    "name": "Belial",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Belial_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c4/E_320.png/300px-E_320.png"
+  },
+  {
+    "index": 326,
+    "name": "Happy 100",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Happy_100_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d8/E_321.png/300px-E_321.png"
+  },
+  {
+    "index": 327,
+    "name": "Li'l Mohawk Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Li%27l_Mohawk_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/5/5d/E_322.png"
+  },
+  {
+    "index": 328,
+    "name": "Li'l Eraser Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Li%27l_Eraser_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/a/ad/E_323.png"
+  },
+  {
+    "index": 329,
+    "name": "Li'l Dark Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Li%27l_Dark_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/41/E_324.png/300px-E_324.png"
+  },
+  {
+    "index": 330,
+    "name": "Li'l Macho Legs Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Li%27l_Macho_Legs_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/3/34/E_325.png"
+  },
+  {
+    "index": 331,
+    "name": "Li'l Lion Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Li%27l_Lion_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/3/38/E_326.png"
+  },
+  {
+    "index": 332,
+    "name": "Li'l Flying Cat",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Li%27l_Flying_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/c/c3/E_327.png"
+  },
+  {
+    "index": 333,
+    "name": "Li'l Island Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Li%27l_Island_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/6/66/E_328.png"
+  },
+  {
+    "index": 334,
+    "name": "Li'l King Dragon Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Li%27l_King_Dragon_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/1/1f/E_329.png"
+  },
+  {
+    "index": 335,
+    "name": "Li'l Jamiera Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Li%27l_Jamiera_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/79/E_330.png/300px-E_330.png"
+  },
+  {
+    "index": 336,
+    "name": "Easter Duche",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Easter_Duche",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7d/E_331.png/300px-E_331.png"
+  },
+  {
+    "index": 337,
+    "name": "Easter B.B.Bunny",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Easter_B.B.Bunny",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/ea/E_332.png/300px-E_332.png"
+  },
+  {
+    "index": 338,
+    "name": "Moai Statue",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Moai_Statue_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/2/20/E_333.png"
+  },
+  {
+    "index": 339,
+    "name": "Bridal Princess Punt",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Bridal_Princess_Punt_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e8/E_334.png/300px-E_334.png"
+  },
+  {
+    "index": 340,
+    "name": "Oversleeping Beauty Punt",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Oversleeping_Beauty_Punt_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/ec/E_335.png/300px-E_335.png"
+  },
+  {
+    "index": 341,
+    "name": "Golden Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Golden_Doge",
+    "image": "https://static.miraheze.org/battlecatswiki/5/58/E_336.png"
+  },
+  {
+    "index": 342,
+    "name": "Gold Hippoe",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Gold_Hippoe",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5e/E_337.png/300px-E_337.png"
+  },
+  {
+    "index": 343,
+    "name": "Pure Gold R.Ost",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Pure_Gold_R.Ost",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7e/E_338.png/300px-E_338.png"
+  },
+  {
+    "index": 344,
+    "name": "Lost World Yuki",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Lost_World_Yuki_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/1/1f/E_339.png"
+  },
+  {
+    "index": 345,
+    "name": "Cala Maria",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Cala_Maria",
+    "image": "https://static.miraheze.org/battlecatswiki/7/78/E_340.png"
+  },
+  {
+    "index": 346,
+    "name": "Red Slug",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Red_Slug",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/30/E_341.png/300px-E_341.png"
+  },
+  {
+    "index": 347,
+    "name": "Black Slug",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Black_Slug",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/a8/E_342.png/300px-E_342.png"
+  },
+  {
+    "index": 348,
+    "name": "Angelic Slug",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Angelic_Slug",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/bf/E_343.png/300px-E_343.png"
+  },
+  {
+    "index": 349,
+    "name": "Cat Kart P",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Cat_Kart_P_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/5/57/E_344.png"
+  },
+  {
+    "index": 350,
+    "name": "Nekondo SP",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Nekondo_SP_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d1/E_345.png/300px-E_345.png"
+  },
+  {
+    "index": 351,
+    "name": "Merc & Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Merc_%26_Cat",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2b/E_346.png/300px-E_346.png"
+  },
+  {
+    "index": 352,
+    "name": "Titi Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Titi_Cat",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/68/E_347.png/300px-E_347.png"
+  },
+  {
+    "index": 353,
+    "name": "Orthos",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Orthos_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/bd/E_348.png/300px-E_348.png"
+  },
+  {
+    "index": 354,
+    "name": "Michelia",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Michelia_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/3/38/E_349.png"
+  },
+  {
+    "index": 355,
+    "name": "Todomeki",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Todomeki_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d3/E_350.png/300px-E_350.png"
+  },
+  {
+    "index": 356,
+    "name": "Gudetama Plate",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Gudetama_Plate_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/df/E_351.png/299px-E_351.png"
+  },
+  {
+    "index": 357,
+    "name": "Gudegude à la mode",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Gudegude_%C3%A0_la_mode_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/ce/E_352.png/300px-E_352.png"
+  },
+  {
+    "index": 358,
+    "name": "Nisetama Army",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Nisetama_Army_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/64/E_353.png/300px-E_353.png"
+  },
+  {
+    "index": 359,
+    "name": "Hermit Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Hermit_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f3/E_354.png/300px-E_354.png"
+  },
+  {
+    "index": 360,
+    "name": "Croakley",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Croakley",
+    "image": "https://static.miraheze.org/battlecatswiki/4/4c/E_355.png"
+  },
+  {
+    "index": 361,
+    "name": "Gary Gory",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Gary_Gory",
+    "image": "https://static.miraheze.org/battlecatswiki/5/5b/E_356.png"
+  },
+  {
+    "index": 362,
+    "name": "Value Meal Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Value_Meal_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/3/38/E_357.png"
+  },
+  {
+    "index": 363,
+    "name": "Metal Snache",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Metal_Snache",
+    "image": "https://static.miraheze.org/battlecatswiki/3/38/E_358.png"
+  },
+  {
+    "index": 364,
+    "name": "THE METAL SLOTH",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/THE_METAL_SLOTH",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7f/E_359.png/300px-E_359.png"
+  },
+  {
+    "index": 365,
+    "name": "Shibalien Elite",
+    "type": "Alien (Star)",
+    "url": "https://battlecats.miraheze.org/wiki/Shibalien_Elite",
+    "image": "https://static.miraheze.org/battlecatswiki/3/3b/E_360.png"
+  },
+  {
+    "index": 366,
+    "name": "Star Peng",
+    "type": "Alien (Star)",
+    "url": "https://battlecats.miraheze.org/wiki/Star_Peng",
+    "image": "https://static.miraheze.org/battlecatswiki/3/36/E_361.png"
+  },
+  {
+    "index": 367,
+    "name": "General GreGory",
+    "type": "Alien (Star)",
+    "url": "https://battlecats.miraheze.org/wiki/General_GreGory",
+    "image": "https://static.miraheze.org/battlecatswiki/1/17/E_362.png"
+  },
+  {
+    "index": 368,
+    "name": "Le'Solar",
+    "type": "Alien (Star)",
+    "url": "https://battlecats.miraheze.org/wiki/Le%27Solar",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/81/E_363.png/300px-E_363.png"
+  },
+  {
+    "index": 369,
+    "name": "Project A",
+    "type": "Alien (Star)",
+    "url": "https://battlecats.miraheze.org/wiki/Project_A",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/6e/E_364.png/300px-E_364.png"
+  },
+  {
+    "index": 370,
+    "name": "Corporal Weyland",
+    "type": "Alien (Star)",
+    "url": "https://battlecats.miraheze.org/wiki/Corporal_Weyland",
+    "image": "https://static.miraheze.org/battlecatswiki/f/f7/E_365.png"
+  },
+  {
+    "index": 371,
+    "name": "Spacefish Jones",
+    "type": "Alien (Star)/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Spacefish_Jones",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/94/E_366.png/300px-E_366.png"
+  },
+  {
+    "index": 372,
+    "name": "The Cat God",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/The_Cat_God",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/17/E_367.png/300px-E_367.png"
+  },
+  {
+    "index": 373,
+    "name": "Saber",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Saber_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/64/E_368.png/299px-E_368.png"
+  },
+  {
+    "index": 374,
+    "name": "Lancer",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Lancer_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f0/E_369.png/299px-E_369.png"
+  },
+  {
+    "index": 375,
+    "name": "Archer",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Archer_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b9/E_370.png/300px-E_370.png"
+  },
+  {
+    "index": 376,
+    "name": "Rider",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Rider_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/4e/E_371.png/300px-E_371.png"
+  },
+  {
+    "index": 377,
+    "name": "Gilgamesh",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Gilgamesh_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5e/E_372.png/300px-E_372.png"
+  },
+  {
+    "index": 378,
+    "name": "Rin Tohsaka",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Rin_Tohsaka_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/a3/E_373.png/300px-E_373.png"
+  },
+  {
+    "index": 379,
+    "name": "Illyasviel",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Illyasviel_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7d/E_374.png/300px-E_374.png"
+  },
+  {
+    "index": 380,
+    "name": "Youcan",
+    "type": "Angel/Alien (Star)",
+    "url": "https://battlecats.miraheze.org/wiki/Youcan",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c5/E_375.png/300px-E_375.png"
+  },
+  {
+    "index": 381,
+    "name": "5th Anniversary Birthday Cake",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/5th_Anniversary_Birthday_Cake_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/17/E_376.png/299px-E_376.png"
+  },
+  {
+    "index": 382,
+    "name": "Super Cosmic Cyclone",
+    "type": "Alien (Star)",
+    "url": "https://battlecats.miraheze.org/wiki/Super_Cosmic_Cyclone",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/0f/E_377.png/300px-E_377.png"
+  },
+  {
+    "index": 383,
+    "name": "5th Anniversary Scarecrow",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/5th_Anniversary_Scarecrow_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/2/22/E_378.png"
+  },
+  {
+    "index": 384,
+    "name": "Winged Pigge",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Winged_Pigge",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d0/E_379.png/299px-E_379.png"
+  },
+  {
+    "index": 385,
+    "name": "Mystic Mask Yulala",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Mystic_Mask_Yulala",
+    "image": "https://static.miraheze.org/battlecatswiki/f/f3/E_380.png"
+  },
+  {
+    "index": 386,
+    "name": "Karin Nekozuka",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Karin_Nekozuka_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d4/E_381.png/300px-E_381.png"
+  },
+  {
+    "index": 387,
+    "name": "Misaki Konno",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Misaki_Konno_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/76/E_382.png/300px-E_382.png"
+  },
+  {
+    "index": 388,
+    "name": "Sairi Nijitani",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Sairi_Nijitani_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/4a/E_383.png/300px-E_383.png"
+  },
+  {
+    "index": 389,
+    "name": "Ren Katagiri",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Ren_Katagiri_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5d/E_384.png/300px-E_384.png"
+  },
+  {
+    "index": 390,
+    "name": "Hater",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Hater_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/eb/E_385.png/300px-E_385.png"
+  },
+  {
+    "index": 391,
+    "name": "Prof. Wild Base",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Prof._Wild_Base_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/1/17/E_386.png"
+  },
+  {
+    "index": 392,
+    "name": "Hackey",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Hackey",
+    "image": "https://static.miraheze.org/battlecatswiki/6/69/E_387.png"
+  },
+  {
+    "index": 393,
+    "name": "UltraBaaBaa",
+    "type": "Alien (Star)",
+    "url": "https://battlecats.miraheze.org/wiki/UltraBaaBaa",
+    "image": "https://static.miraheze.org/battlecatswiki/1/10/E_388.png"
+  },
+  {
+    "index": 394,
+    "name": "Pigge Victorious",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Pigge_Victorious",
+    "image": "https://static.miraheze.org/battlecatswiki/1/11/E_389.png"
+  },
+  {
+    "index": 395,
+    "name": "Bang-Bang",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Bang-Bang",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/9b/E_390.png/300px-E_390.png"
+  },
+  {
+    "index": 396,
+    "name": "Mentori",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Mentori_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/4e/E_391.png/300px-E_391.png"
+  },
+  {
+    "index": 397,
+    "name": "Sachiel",
+    "type": "Eva Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Sachiel_(Eva_Angel)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b8/E_392.png/300px-E_392.png"
+  },
+  {
+    "index": 398,
+    "name": "Ramiel",
+    "type": "Eva Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Ramiel_(Eva_Angel)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/71/E_393.png/300px-E_393.png"
+  },
+  {
+    "index": 399,
+    "name": "Bardiel",
+    "type": "Eva Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Bardiel_(Eva_Angel)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/8f/E_394.png/300px-E_394.png"
+  },
+  {
+    "index": 400,
+    "name": "Zeruel",
+    "type": "Eva Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Zeruel_(Eva_Angel)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/93/E_395.png/300px-E_395.png"
+  },
+  {
+    "index": 401,
+    "name": "Crazed Moneko",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Crazed_Moneko_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/8f/E_396.png/300px-E_396.png"
+  },
+  {
+    "index": 402,
+    "name": "Corrupted Moneko",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Corrupted_Moneko_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/ea/E_397.png/300px-E_397.png"
+  },
+  {
+    "index": 403,
+    "name": "Glowstick Guys",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Glowstick_Guys",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/6a/E_398.png/300px-E_398.png"
+  },
+  {
+    "index": 404,
+    "name": "Pokota",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Pokota_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/31/E_399.png/300px-E_399.png"
+  },
+  {
+    "index": 405,
+    "name": "Ovis",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Ovis_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/a0/E_400.png/300px-E_400.png"
+  },
+  {
+    "index": 406,
+    "name": "Coco",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Coco_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b4/E_401.png/300px-E_401.png"
+  },
+  {
+    "index": 407,
+    "name": "Moe Uzumasa & Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Moe_Uzumasa_%26_Doge_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7b/E_402.png/300px-E_402.png"
+  },
+  {
+    "index": 408,
+    "name": "Saki Matsuga & Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Saki_Matsuga_%26_Doge_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/ac/E_403.png/300px-E_403.png"
+  },
+  {
+    "index": 409,
+    "name": "Misa Ono & Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Misa_Ono_%26_Doge_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/1e/E_404.png/300px-E_404.png"
+  },
+  {
+    "index": 410,
+    "name": "Mecha-Bun",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Mecha-Bun_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b0/E_405.png/300px-E_405.png"
+  },
+  {
+    "index": 411,
+    "name": "Relic Bun-Bun",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/Relic_Bun-Bun",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/da/E_406.png/300px-E_406.png"
+  },
+  {
+    "index": 412,
+    "name": "Relic Doge",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/Relic_Doge",
+    "image": "https://static.miraheze.org/battlecatswiki/0/0f/E_407.png"
+  },
+  {
+    "index": 413,
+    "name": "Crazed Yuki",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Crazed_Yuki_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f5/E_408.png/300px-E_408.png"
+  },
+  {
+    "index": 414,
+    "name": "Gude-Doge Machine",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Gude-Doge_Machine_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/76/E_409.png/300px-E_409.png"
+  },
+  {
+    "index": 415,
+    "name": "Gudebene Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Gudebene_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/54/E_410.png/300px-E_410.png"
+  },
+  {
+    "index": 416,
+    "name": "Gorilliam",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/Gorilliam",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/45/E_411.png/300px-E_411.png"
+  },
+  {
+    "index": 417,
+    "name": "Sir Rel",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/Sir_Rel",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/0b/E_412.png/300px-E_412.png"
+  },
+  {
+    "index": 418,
+    "name": "Oldhorn",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/Oldhorn",
+    "image": "https://static.miraheze.org/battlecatswiki/f/f7/E_413.png"
+  },
+  {
+    "index": 419,
+    "name": "Othom",
+    "type": "Relic/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Othom",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d4/E_414.png/300px-E_414.png"
+  },
+  {
+    "index": 420,
+    "name": "Betakkuma",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Betakkuma_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/ff/E_415.png/300px-E_415.png"
+  },
+  {
+    "index": 421,
+    "name": "Selena",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Selena",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f9/E_416.png/300px-E_416.png"
+  },
+  {
+    "index": 422,
+    "name": "Kid Tappa",
+    "type": "Alien (Star)",
+    "url": "https://battlecats.miraheze.org/wiki/Kid_Tappa",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/bc/E_417.png/299px-E_417.png"
+  },
+  {
+    "index": 423,
+    "name": "Ribbo",
+    "type": "Alien (Star)",
+    "url": "https://battlecats.miraheze.org/wiki/Ribbo",
+    "image": "https://static.miraheze.org/battlecatswiki/4/48/E_418.png"
+  },
+  {
+    "index": 424,
+    "name": "Cat God",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Cat_God",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/fc/E_419.png/299px-E_419.png"
+  },
+  {
+    "index": 425,
+    "name": "Loris",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/Loris",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/10/E_420.png/300px-E_420.png"
+  },
+  {
+    "index": 426,
+    "name": "Heavenly Le'saint",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Heavenly_Le%27saint",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/a1/E_421.png/300px-E_421.png"
+  },
+  {
+    "index": 427,
+    "name": "The Red Malice",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/The_Red_Malice",
+    "image": "https://static.miraheze.org/battlecatswiki/3/3f/E_422.png"
+  },
+  {
+    "index": 428,
+    "name": "Lowkey",
+    "type": "Relic/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Lowkey",
+    "image": "https://static.miraheze.org/battlecatswiki/1/1c/E_423.png"
+  },
+  {
+    "index": 429,
+    "name": "M. Ost",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/M._Ost",
+    "image": "https://static.miraheze.org/battlecatswiki/a/af/E_424.png"
+  },
+  {
+    "index": 430,
+    "name": "Dead Donny Dash",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Dead_Donny_Dash",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c6/E_425.png/300px-E_425.png"
+  },
+  {
+    "index": 431,
+    "name": "CTO Seal",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/CTO_Seal",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/a6/E_426.png/300px-E_426.png"
+  },
+  {
+    "index": 432,
+    "name": "Cadaver Bear",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Cadaver_Bear",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7f/E_427.png/300px-E_427.png"
+  },
+  {
+    "index": 433,
+    "name": "Dread Bore",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Dread_Bore",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/29/E_428.png/300px-E_428.png"
+  },
+  {
+    "index": 434,
+    "name": "Homulilly",
+    "type": "Witch",
+    "url": "https://battlecats.miraheze.org/wiki/Homulilly_(Witch)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/dd/E_429.png/299px-E_429.png"
+  },
+  {
+    "index": 435,
+    "name": "Satan Claus",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/Satan_Claus",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7e/E_430.png/300px-E_430.png"
+  },
+  {
+    "index": 436,
+    "name": "Bakoo",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Bakoo",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/62/E_431.png/300px-E_431.png"
+  },
+  {
+    "index": 437,
+    "name": "Hikakin",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Hikakin_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/95/E_432.png/300px-E_432.png"
+  },
+  {
+    "index": 438,
+    "name": "Mukyakin",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Mukyakin_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/20/E_433.png/300px-E_433.png"
+  },
+  {
+    "index": 439,
+    "name": "Sister Lione",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Sister_Lione",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/bc/E_434.png/300px-E_434.png"
+  },
+  {
+    "index": 440,
+    "name": "6th Anniversary Birthday Cake",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/6th_Anniversary_Birthday_Cake_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/86/E_435.png/300px-E_435.png"
+  },
+  {
+    "index": 441,
+    "name": "6th Anniversary Scarecrow",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/6th_Anniversary_Scarecrow_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/1/18/E_436.png"
+  },
+  {
+    "index": 442,
+    "name": "Lucky Dags",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Lucky_Dags",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2a/E_437.png/300px-E_437.png"
+  },
+  {
+    "index": 443,
+    "name": "Primeval Cyclone",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/Primeval_Cyclone",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e9/E_438.png/300px-E_438.png"
+  },
+  {
+    "index": 444,
+    "name": "Li'l Bore",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Li%27l_Bore",
+    "image": "https://static.miraheze.org/battlecatswiki/0/08/E_439.png"
+  },
+  {
+    "index": 445,
+    "name": "Bears Be Back",
+    "type": "Red/Black/Angel/Alien/Zombie/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Bears_Be_Back",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/44/E_440.png/300px-E_440.png"
+  },
+  {
+    "index": 446,
+    "name": "Saber Alter",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Saber_Alter_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/84/E_441.png/300px-E_441.png"
+  },
+  {
+    "index": 447,
+    "name": "Ms. Madonna",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Ms._Madonna",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/bf/E_442.png/300px-E_442.png"
+  },
+  {
+    "index": 448,
+    "name": "Mesocosmocyclone",
+    "type": "Alien (Star)",
+    "url": "https://battlecats.miraheze.org/wiki/Mesocosmocyclone",
+    "image": "https://static.miraheze.org/battlecatswiki/1/17/E_443.png"
+  },
+  {
+    "index": 449,
+    "name": "Gardeneel Bros.",
+    "type": "Alien (Star)",
+    "url": "https://battlecats.miraheze.org/wiki/Gardeneel_Bros.",
+    "image": "https://static.miraheze.org/battlecatswiki/a/a7/E_444.png"
+  },
+  {
+    "index": 450,
+    "name": "Axoloty",
+    "type": "Alien (Star)",
+    "url": "https://battlecats.miraheze.org/wiki/Axoloty",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f3/E_445.png/299px-E_445.png"
+  },
+  {
+    "index": 451,
+    "name": "Final Boss Giga-God",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Final_Boss_Giga-God",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f1/E_446.png/300px-E_446.png"
+  },
+  {
+    "index": 452,
+    "name": "Filibuster Obstructa",
+    "type": "Alien (Star)/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Filibuster_Obstructa",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/df/E_447.png/300px-E_447.png"
+  },
+  {
+    "index": 453,
+    "name": "Idol Mihara & Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Idol_Mihara_%26_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/a2/E_448.png/299px-E_448.png"
+  },
+  {
+    "index": 454,
+    "name": "Haterbaa 2.0",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Haterbaa_2.0",
+    "image": "https://static.miraheze.org/battlecatswiki/a/ae/E_449.png"
+  },
+  {
+    "index": 455,
+    "name": "Dogumaru",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/Dogumaru_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/ba/E_450.png/300px-E_450.png"
+  },
+  {
+    "index": 456,
+    "name": "Maji Cat & Cat Tour Group",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Maji_Cat_%26_Cat_Tour_Group_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/ad/E_451.png/300px-E_451.png"
+  },
+  {
+    "index": 457,
+    "name": "Super Devil",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Super_Devil_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/53/E_452.png/300px-E_452.png"
+  },
+  {
+    "index": 458,
+    "name": "Satanmaria",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Satanmaria_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/9e/E_453.png/300px-E_453.png"
+  },
+  {
+    "index": 459,
+    "name": "Wondermaria",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Wondermaria_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/46/E_454.png/300px-E_454.png"
+  },
+  {
+    "index": 460,
+    "name": "Beastly Nero",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Beastly_Nero_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/04/E_455.png/300px-E_455.png"
+  },
+  {
+    "index": 461,
+    "name": "Head Rococo",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Head_Rococo_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/94/E_456.png/300px-E_456.png"
+  },
+  {
+    "index": 462,
+    "name": "Gummy Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Gummy_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/9f/E_457.png/300px-E_457.png"
+  },
+  {
+    "index": 463,
+    "name": "Kitarou",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Kitarou_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/42/E_458.png/299px-E_458.png"
+  },
+  {
+    "index": 464,
+    "name": "Medama-Oyaji",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Medama-Oyaji_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/fd/E_459.png/299px-E_459.png"
+  },
+  {
+    "index": 465,
+    "name": "Neko-Musume",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Neko-Musume_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/23/E_460.png/299px-E_460.png"
+  },
+  {
+    "index": 466,
+    "name": "Kano & Souma",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Kano_%26_Souma_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/ee/E_461.png/300px-E_461.png"
+  },
+  {
+    "index": 467,
+    "name": "Gekirinchi",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Gekirinchi_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/a7/E_462.png/300px-E_462.png"
+  },
+  {
+    "index": 468,
+    "name": "Judgement",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Judgement_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/53/E_463.png/300px-E_463.png"
+  },
+  {
+    "index": 469,
+    "name": "Awakened Eva Unit-13",
+    "type": "Eva Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Awakened_Eva_Unit-13_(Eva_Angel)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/a7/E_464.png/300px-E_464.png"
+  },
+  {
+    "index": 470,
+    "name": "HAPPI",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/HAPPI_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/cb/E_465.png/300px-E_465.png"
+  },
+  {
+    "index": 471,
+    "name": "HAPPI & Maji Cat & Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/HAPPI_%26_Maji_Cat_%26_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/ff/E_466.png/300px-E_466.png"
+  },
+  {
+    "index": 472,
+    "name": "Chocolate Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Chocolate_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/85/E_467.png/300px-E_467.png"
+  },
+  {
+    "index": 473,
+    "name": "Zuche",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Zuche",
+    "image": "https://static.miraheze.org/battlecatswiki/d/d5/E_468.png"
+  },
+  {
+    "index": 474,
+    "name": "The Thrillerz",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/The_Thrillerz",
+    "image": "https://static.miraheze.org/battlecatswiki/7/70/E_469.png"
+  },
+  {
+    "index": 475,
+    "name": "Shakurel Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Shakurel_Doge_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/ac/E_470.png/300px-E_470.png"
+  },
+  {
+    "index": 476,
+    "name": "Shakurel Gory",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Shakurel_Gory_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/9c/E_471.png/300px-E_471.png"
+  },
+  {
+    "index": 477,
+    "name": "Shakurel Face",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Shakurel_Face_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/4/49/E_472.png"
+  },
+  {
+    "index": 478,
+    "name": "Shakurel Lion",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Shakurel_Lion_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/9a/E_473.png/300px-E_473.png"
+  },
+  {
+    "index": 479,
+    "name": "Shakurel Tiger",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Shakurel_Tiger_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2f/E_474.png/300px-E_474.png"
+  },
+  {
+    "index": 480,
+    "name": "Shakurel Panda",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Shakurel_Panda_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/6a/E_475.png/300px-E_475.png"
+  },
+  {
+    "index": 481,
+    "name": "Dot Hero",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Dot_Hero_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/ad/E_476.png/300px-E_476.png"
+  },
+  {
+    "index": 482,
+    "name": "Mr. Puffington",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/Mr._Puffington",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/0f/E_477.png/300px-E_477.png"
+  },
+  {
+    "index": 483,
+    "name": "Li'l Cake Doge",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Li%27l_Cake_Doge",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/67/E_478.png/300px-E_478.png"
+  },
+  {
+    "index": 484,
+    "name": "Puffsley's Comet",
+    "type": "Alien",
+    "url": "https://battlecats.miraheze.org/wiki/Puffsley%27s_Comet",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5d/E_479.png/300px-E_479.png"
+  },
+  {
+    "index": 485,
+    "name": "Ryu",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Ryu_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/27/E_480.png/300px-E_480.png"
+  },
+  {
+    "index": 486,
+    "name": "Chun-Li",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Chun-Li_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/a4/E_481.png/300px-E_481.png"
+  },
+  {
+    "index": 487,
+    "name": "Guile",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Guile_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5a/E_482.png/300px-E_482.png"
+  },
+  {
+    "index": 488,
+    "name": "Zangief",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Zangief_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/71/E_483.png/300px-E_483.png"
+  },
+  {
+    "index": 489,
+    "name": "Blanka",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Blanka_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f5/E_484.png/300px-E_484.png"
+  },
+  {
+    "index": 490,
+    "name": "Dhalsim",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Dhalsim_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/40/E_485.png/300px-E_485.png"
+  },
+  {
+    "index": 491,
+    "name": "Ken",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Ken_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/f/f9/E_486.png"
+  },
+  {
+    "index": 492,
+    "name": "Car",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Car_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/c/c3/E_487.png"
+  },
+  {
+    "index": 493,
+    "name": "Akuma",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Akuma_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/c/c0/E_488.png"
+  },
+  {
+    "index": 494,
+    "name": "7th Anniversary Birthday Cake",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/7th_Anniversary_Birthday_Cake_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e0/E_489.png/300px-E_489.png"
+  },
+  {
+    "index": 495,
+    "name": "7th Anniversary Scarecrow",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/7th_Anniversary_Scarecrow_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/9/9b/E_490.png"
+  },
+  {
+    "index": 496,
+    "name": "Black Okame",
+    "type": "Red/Black",
+    "url": "https://battlecats.miraheze.org/wiki/Black_Okame",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/3a/E_491.png/300px-E_491.png"
+  },
+  {
+    "index": 497,
+    "name": "Heavenly Herald Papuu",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Heavenly_Herald_Papuu",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2a/E_492.png/300px-E_492.png"
+  },
+  {
+    "index": 498,
+    "name": "Queen Mother V",
+    "type": "Relic/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Queen_Mother_V",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/18/E_493.png/300px-E_493.png"
+  },
+  {
+    "index": 499,
+    "name": "Rat Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Rat_Doge_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/3/36/E_494.png"
+  },
+  {
+    "index": 500,
+    "name": "Kappy Jr.",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Kappy_Jr.",
+    "image": "https://static.miraheze.org/battlecatswiki/d/db/E_495.png"
+  },
+  {
+    "index": 501,
+    "name": "Urs & Fenrir",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/Urs_%26_Fenrir_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/4e/E_496.png/300px-E_496.png"
+  },
+  {
+    "index": 502,
+    "name": "Croconator",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Croconator",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/57/E_497.png/300px-E_497.png"
+  },
+  {
+    "index": 503,
+    "name": "Gobble",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Gobble",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f1/E_498.png/300px-E_498.png"
+  },
+  {
+    "index": 504,
+    "name": "Baron Seal",
+    "type": "Red/Colossus",
+    "url": "https://battlecats.miraheze.org/wiki/Baron_Seal",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f4/E_499.png/300px-E_499.png"
+  },
+  {
+    "index": 505,
+    "name": "Hatsune Miku",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Hatsune_Miku_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c4/E_500.png/300px-E_500.png"
+  },
+  {
+    "index": 506,
+    "name": "Sakura Miku",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Sakura_Miku_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/34/E_501.png/300px-E_501.png"
+  },
+  {
+    "index": 507,
+    "name": "Kagamine Rin & Len",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Kagamine_Rin_%26_Len_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f9/E_502.png/300px-E_502.png"
+  },
+  {
+    "index": 508,
+    "name": "MikuDoge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/MikuDoge_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/27/E_503.png/300px-E_503.png"
+  },
+  {
+    "index": 509,
+    "name": "MikuGory",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/MikuGory_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/6b/E_504.png/299px-E_504.png"
+  },
+  {
+    "index": 510,
+    "name": "MikuBear",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/MikuBear_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c8/E_505.png/300px-E_505.png"
+  },
+  {
+    "index": 511,
+    "name": "Everlord Wanwan",
+    "type": "Alien (Star)",
+    "url": "https://battlecats.miraheze.org/wiki/Everlord_Wanwan",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5e/E_506.png/300px-E_506.png"
+  },
+  {
+    "index": 512,
+    "name": "Messier",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Messier_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/43/E_507.png/300px-E_507.png"
+  },
+  {
+    "index": 513,
+    "name": "Yakisoba U.F.O. Cat",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Yakisoba_U.F.O._Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/f/fd/E_508.png"
+  },
+  {
+    "index": 514,
+    "name": "Yakisoba Face",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Yakisoba_Face_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7e/E_509.png/300px-E_509.png"
+  },
+  {
+    "index": 515,
+    "name": "Le'Grim",
+    "type": "Black/Colossus",
+    "url": "https://battlecats.miraheze.org/wiki/Le%27Grim",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/36/E_510.png/300px-E_510.png"
+  },
+  {
+    "index": 516,
+    "name": "Death Angel Z-Onel",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Death_Angel_Z-Onel",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/19/E_511.png/300px-E_511.png"
+  },
+  {
+    "index": 517,
+    "name": "Li'l Zyclone",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Li%27l_Zyclone",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d7/E_512.png/300px-E_512.png"
+  },
+  {
+    "index": 518,
+    "name": "St. Dober",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/St._Dober",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/4b/E_513.png/300px-E_513.png"
+  },
+  {
+    "index": 519,
+    "name": "Doremi",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Doremi",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/9b/E_514.png/300px-E_514.png"
+  },
+  {
+    "index": 520,
+    "name": "Mega-Mooth",
+    "type": "Floating/Colossus",
+    "url": "https://battlecats.miraheze.org/wiki/Mega-Mooth",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/0c/E_515.png/300px-E_515.png"
+  },
+  {
+    "index": 521,
+    "name": "Master Uril",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Master_Uril_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/01/E_516.png/300px-E_516.png"
+  },
+  {
+    "index": 522,
+    "name": "Koronium",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Koronium",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/bd/E_517.png/300px-E_517.png"
+  },
+  {
+    "index": 523,
+    "name": "Super Zeus",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Super_Zeus_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/6a/E_518.png/300px-E_518.png"
+  },
+  {
+    "index": 524,
+    "name": "Shaman Khan",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Shaman_Khan_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/fe/E_519.png/300px-E_519.png"
+  },
+  {
+    "index": 525,
+    "name": "Heracrist",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Heracrist_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c5/E_520.png/300px-E_520.png"
+  },
+  {
+    "index": 526,
+    "name": "Johnnyleon",
+    "type": "Red/Alien/Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Johnnyleon",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/17/E_521.png/300px-E_521.png"
+  },
+  {
+    "index": 527,
+    "name": "Relic Doge Base",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Relic_Doge_Base_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/9/90/E_522.png"
+  },
+  {
+    "index": 528,
+    "name": "Happy Birthday Cake",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Happy_Birthday_Cake_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/0/0b/E_523.png"
+  },
+  {
+    "index": 529,
+    "name": "Surge Base",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Surge_Base_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/0/03/E_524.png"
+  },
+  {
+    "index": 530,
+    "name": "Super Hyppoh",
+    "type": "Alien/Colossus",
+    "url": "https://battlecats.miraheze.org/wiki/Super_Hyppoh",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/84/E_525.png/300px-E_525.png"
+  },
+  {
+    "index": 531,
+    "name": "Idi:Re",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/Idi:Re",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/6c/E_526.png/300px-E_526.png"
+  },
+  {
+    "index": 532,
+    "name": "Zollow",
+    "type": "Zombie/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Zollow",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e2/E_527.png/299px-E_527.png"
+  },
+  {
+    "index": 533,
+    "name": "E. Honda",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/E._Honda_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/11/E_528.png/300px-E_528.png"
+  },
+  {
+    "index": 534,
+    "name": "Balrog",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Balrog_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/0e/E_529.png/300px-E_529.png"
+  },
+  {
+    "index": 535,
+    "name": "Vega",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Vega_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/03/E_530.png/299px-E_530.png"
+  },
+  {
+    "index": 536,
+    "name": "Sagat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Sagat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d8/E_531.png/300px-E_531.png"
+  },
+  {
+    "index": 537,
+    "name": "M. Bison",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/M._Bison_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/51/E_532.png/300px-E_532.png"
+  },
+  {
+    "index": 538,
+    "name": "8th Anniversary Birthday Cake",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/8th_Anniversary_Birthday_Cake_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/a3/E_533.png/300px-E_533.png"
+  },
+  {
+    "index": 539,
+    "name": "8th Anniversary Scarecrow",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/8th_Anniversary_Scarecrow_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/b/b7/E_534_en.png"
+  },
+  {
+    "index": 540,
+    "name": "Evil Emperor Cat",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/Evil_Emperor_Cat",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/15/E_535.png/300px-E_535.png"
+  },
+  {
+    "index": 541,
+    "name": "Megurine Luka",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Megurine_Luka_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7b/E_536.png/300px-E_536.png"
+  },
+  {
+    "index": 542,
+    "name": "Cow Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Cow_Doge_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5e/E_537.png/300px-E_537.png"
+  },
+  {
+    "index": 543,
+    "name": "Bore Jr.",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Bore_Jr.",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7c/E_538.png/300px-E_538.png"
+  },
+  {
+    "index": 544,
+    "name": "Chocolate Doge",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Chocolate_Doge",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7b/E_539.png/300px-E_539.png"
+  },
+  {
+    "index": 545,
+    "name": "Snow Miku 2021",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Snow_Miku_2021_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e2/E_540.png/300px-E_540.png"
+  },
+  {
+    "index": 546,
+    "name": "Raynard",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Raynard",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/de/E_541.png/300px-E_541.png"
+  },
+  {
+    "index": 547,
+    "name": "Ranma Saotome (M)",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Ranma_Saotome_(M)_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/12/E_542.png/300px-E_542.png"
+  },
+  {
+    "index": 548,
+    "name": "Akane Tendo",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Akane_Tendo_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/ad/E_543.png/300px-E_543.png"
+  },
+  {
+    "index": 549,
+    "name": "Hibiki Ryoga",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Hibiki_Ryoga_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/33/E_544.png/300px-E_544.png"
+  },
+  {
+    "index": 550,
+    "name": "Shampoo",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Shampoo_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/78/E_545.png/300px-E_545.png"
+  },
+  {
+    "index": 551,
+    "name": "Mousse",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Mousse_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/13/E_546.png/300px-E_546.png"
+  },
+  {
+    "index": 552,
+    "name": "Mr. Mer",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Mr._Mer",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/85/E_547.png/300px-E_547.png"
+  },
+  {
+    "index": 553,
+    "name": "Wafer Cat XL",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Wafer_Cat_XL_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5b/E_548.png/300px-E_548.png"
+  },
+  {
+    "index": 554,
+    "name": "Ragin' Gory",
+    "type": "Black/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Ragin%27_Gory",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e9/E_549.png/300px-E_549.png"
+  },
+  {
+    "index": 555,
+    "name": "Shin Godzilla",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Shin_Godzilla_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e9/E_550.png/300px-E_550.png"
+  },
+  {
+    "index": 556,
+    "name": "Elder Flame Doron",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/Elder_Flame_Doron",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/38/E_551.png/300px-E_551.png"
+  },
+  {
+    "index": 557,
+    "name": "Aku Doge",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Aku_Doge",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f7/E_552.png/300px-E_552.png"
+  },
+  {
+    "index": 558,
+    "name": "Sinner Snache",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Sinner_Snache",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/1f/E_553.png/300px-E_553.png"
+  },
+  {
+    "index": 559,
+    "name": "Cerberus Kids",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Cerberus_Kids",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/fc/E_554.png/300px-E_554.png"
+  },
+  {
+    "index": 560,
+    "name": "Condemned Peng",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Condemned_Peng",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/ee/E_555.png/300px-E_555.png"
+  },
+  {
+    "index": 561,
+    "name": "Aku Gory",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Aku_Gory",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/62/E_556.png/300px-E_556.png"
+  },
+  {
+    "index": 562,
+    "name": "Le'Behemoth",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Le%27Behemoth",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/ea/E_557.png/300px-E_557.png"
+  },
+  {
+    "index": 563,
+    "name": "Fallen Bear",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Fallen_Bear",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7a/E_558.png/300px-E_558.png"
+  },
+  {
+    "index": 564,
+    "name": "Wicked Face",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Wicked_Face",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d8/E_559.png/300px-E_559.png"
+  },
+  {
+    "index": 565,
+    "name": "Aku Cyclone",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Aku_Cyclone",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/77/E_560.png/300px-E_560.png"
+  },
+  {
+    "index": 566,
+    "name": "Wicked Cat",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Wicked_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/30/E_561.png/300px-E_561.png"
+  },
+  {
+    "index": 567,
+    "name": "Wicked Tank Cat",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Wicked_Tank_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/81/E_562.png/300px-E_562.png"
+  },
+  {
+    "index": 568,
+    "name": "Wicked Axe Cat",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Wicked_Axe_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/59/E_563.png/300px-E_563.png"
+  },
+  {
+    "index": 569,
+    "name": "564",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/564_(Aku)",
+    "image": "https://static.miraheze.org/battlecatswiki/5/57/E_000.png"
+  },
+  {
+    "index": 570,
+    "name": "565",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/565_(Aku)",
+    "image": "https://static.miraheze.org/battlecatswiki/5/57/E_000.png"
+  },
+  {
+    "index": 571,
+    "name": "566",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/566_(Aku)",
+    "image": "https://static.miraheze.org/battlecatswiki/5/57/E_000.png"
+  },
+  {
+    "index": 572,
+    "name": "567",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/567_(Aku)",
+    "image": "https://static.miraheze.org/battlecatswiki/5/57/E_000.png"
+  },
+  {
+    "index": 573,
+    "name": "568",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/568_(Aku)",
+    "image": "https://static.miraheze.org/battlecatswiki/5/57/E_000.png"
+  },
+  {
+    "index": 574,
+    "name": "569",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/569_(Aku)",
+    "image": "https://static.miraheze.org/battlecatswiki/5/57/E_000.png"
+  },
+  {
+    "index": 575,
+    "name": "Dark Priest Mamon",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Dark_Priest_Mamon",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/42/E_570.png/300px-E_570.png"
+  },
+  {
+    "index": 576,
+    "name": "High Priest Mamon",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/High_Priest_Mamon",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d4/E_571.png/300px-E_571.png"
+  },
+  {
+    "index": 577,
+    "name": "Lord of Ruin Jagando",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Lord_of_Ruin_Jagando",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/38/E_572.png/300px-E_572.png"
+  },
+  {
+    "index": 578,
+    "name": "Possessed Empress",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Possessed_Empress",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/ad/E_573.png/300px-E_573.png"
+  },
+  {
+    "index": 579,
+    "name": "Aku Altar",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Aku_Altar_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/0/07/E_574.png"
+  },
+  {
+    "index": 580,
+    "name": "Inactive Aku Altar",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Inactive_Aku_Altar_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/f/f1/E_575.png"
+  },
+  {
+    "index": 581,
+    "name": "Large White Ball",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Large_White_Ball",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/4e/E_576.png/300px-E_576.png"
+  },
+  {
+    "index": 582,
+    "name": "Large Red Ball",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Large_Red_Ball",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/ef/E_577.png/300px-E_577.png"
+  },
+  {
+    "index": 583,
+    "name": "Large Iron Ball",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Large_Iron_Ball",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2d/E_578.png/300px-E_578.png"
+  },
+  {
+    "index": 584,
+    "name": "Kyubey (form 2)",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Kyubey_(form_2)_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/ed/E_579.png/300px-E_579.png"
+  },
+  {
+    "index": 585,
+    "name": "White Wind",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/White_Wind",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c0/E_580.png/299px-E_580.png"
+  },
+  {
+    "index": 586,
+    "name": "Red Wind",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Red_Wind",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/11/E_581.png/299px-E_581.png"
+  },
+  {
+    "index": 587,
+    "name": "Black Wind",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Black_Wind",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/dc/E_582.png/299px-E_582.png"
+  },
+  {
+    "index": 588,
+    "name": "Medu-san",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Medu-san",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/ae/E_583.png/300px-E_583.png"
+  },
+  {
+    "index": 589,
+    "name": "Miz Devil",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Miz_Devil",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f9/E_584.png/300px-E_584.png"
+  },
+  {
+    "index": 590,
+    "name": "Sathankhamun VIII",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Sathankhamun_VIII",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b0/E_585.png/300px-E_585.png"
+  },
+  {
+    "index": 591,
+    "name": "Midnite D.",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Midnite_D.",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/14/E_586.png/300px-E_586.png"
+  },
+  {
+    "index": 592,
+    "name": "Ackey",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Ackey",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/ce/E_587.png/300px-E_587.png"
+  },
+  {
+    "index": 593,
+    "name": "Deathkory",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Deathkory",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/aa/E_588.png/299px-E_588.png"
+  },
+  {
+    "index": 594,
+    "name": "Masked Grandmaster Cat",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/Masked_Grandmaster_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/8b/E_589.png/300px-E_589.png"
+  },
+  {
+    "index": 595,
+    "name": "9th Anniversary Birthday Cake",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/9th_Anniversary_Birthday_Cake_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b9/E_590_1.png/300px-E_590_1.png"
+  },
+  {
+    "index": 596,
+    "name": "9th Anniversary Scarecrow",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/9th_Anniversary_Scarecrow_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/7/7b/E_591_2.png"
+  },
+  {
+    "index": 597,
+    "name": "Red EnerG",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Red_EnerG",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/6e/E_592.png/300px-E_592.png"
+  },
+  {
+    "index": 598,
+    "name": "Archangel Exiel",
+    "type": "Angel/Colossus",
+    "url": "https://battlecats.miraheze.org/wiki/Archangel_Exiel",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/17/E_593.png/300px-E_593.png"
+  },
+  {
+    "index": 599,
+    "name": "Big Peng Z",
+    "type": "Zombie/Colossus",
+    "url": "https://battlecats.miraheze.org/wiki/Big_Peng_Z",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/07/E_594.png/300px-E_594.png"
+  },
+  {
+    "index": 600,
+    "name": "Tiger Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Tiger_Doge_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/3b/E_595.png/300px-E_595.png"
+  },
+  {
+    "index": 601,
+    "name": "Nana & Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Nana_%26_Doge_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5c/E_596.png/300px-E_596.png"
+  },
+  {
+    "index": 602,
+    "name": "Emilia & Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Emilia_%26_Doge_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/05/E_597.png/300px-E_597.png"
+  },
+  {
+    "index": 603,
+    "name": "Firecracker",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Firecracker",
+    "image": "https://static.miraheze.org/battlecatswiki/8/86/E_598.png"
+  },
+  {
+    "index": 604,
+    "name": "Ultima Beast Naala",
+    "type": "Relic/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Ultima_Beast_Naala",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/1a/E_599.png/299px-E_599.png"
+  },
+  {
+    "index": 605,
+    "name": "Zapy",
+    "type": "Zombie",
+    "url": "https://battlecats.miraheze.org/wiki/Zapy",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/41/E_600.png/300px-E_600.png"
+  },
+  {
+    "index": 606,
+    "name": "Secret Crush Base",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Secret_Crush_Base_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/1/1c/E_601.png"
+  },
+  {
+    "index": 607,
+    "name": "Confessional Tree",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Confessional_Tree_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/b/b5/E_602.png"
+  },
+  {
+    "index": 608,
+    "name": "Wild Doge",
+    "type": "Traitless/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Wild_Doge",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/3f/E_603.png/300px-E_603.png"
+  },
+  {
+    "index": 609,
+    "name": "Casaurian Ahirujo",
+    "type": "Red/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Casaurian_Ahirujo",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/08/E_604.png/299px-E_604.png"
+  },
+  {
+    "index": 610,
+    "name": "Pterowl Hazuku",
+    "type": "Floating/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Pterowl_Hazuku",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/aa/E_605.png/300px-E_605.png"
+  },
+  {
+    "index": 611,
+    "name": "Crustaceous Scissorex",
+    "type": "Alien/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Crustaceous_Scissorex",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b3/E_606.png/300px-E_606.png"
+  },
+  {
+    "index": 612,
+    "name": "J.J. Jackrabbit",
+    "type": "Red/Colossus",
+    "url": "https://battlecats.miraheze.org/wiki/J.J._Jackrabbit",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/34/E_607.png/300px-E_607.png"
+  },
+  {
+    "index": 613,
+    "name": "Li'l Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Li%27l_Doge",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/4e/E_608.png/300px-E_608.png"
+  },
+  {
+    "index": 614,
+    "name": "Golem Sunfish",
+    "type": "Relic/Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Golem_Sunfish",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/12/E_609.png/300px-E_609.png"
+  },
+  {
+    "index": 615,
+    "name": "THE FOLIVOREAN",
+    "type": "Aku/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/THE_FOLIVOREAN",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/28/E_610.png/299px-E_610.png"
+  },
+  {
+    "index": 616,
+    "name": "Casaurian Darkjo",
+    "type": "Black/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Casaurian_Darkjo",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/cf/E_611.png/300px-E_611.png"
+  },
+  {
+    "index": 617,
+    "name": "Haniwanwan",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/Haniwanwan",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/0e/E_612.png/300px-E_612.png"
+  },
+  {
+    "index": 618,
+    "name": "Angelic Beast Rajakong",
+    "type": "Angel/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Angelic_Beast_Rajakong",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/ff/E_613.png/300px-E_613.png"
+  },
+  {
+    "index": 619,
+    "name": "Formicidaean Ariant",
+    "type": "Zombie/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Formicidaean_Ariant",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/29/E_614.png/299px-E_614.png"
+  },
+  {
+    "index": 620,
+    "name": "Great Angel Chibinel",
+    "type": "Angel/Colossus",
+    "url": "https://battlecats.miraheze.org/wiki/Great_Angel_Chibinel",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/79/E_615.png/300px-E_615.png"
+  },
+  {
+    "index": 621,
+    "name": "Spiritual Yulala",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/Spiritual_Yulala_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/fb/E_616.png/300px-E_616.png"
+  },
+  {
+    "index": 622,
+    "name": "Osamu Mikumo & Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Osamu_Mikumo_%26_Doge_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/a2/E_617.png/300px-E_617.png"
+  },
+  {
+    "index": 623,
+    "name": "Yuma Kuga & Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Yuma_Kuga_%26_Doge_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/af/E_618.png/300px-E_618.png"
+  },
+  {
+    "index": 624,
+    "name": "Marmod",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Marmod_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c0/E_619.png/300px-E_619.png"
+  },
+  {
+    "index": 625,
+    "name": "Red Marmod",
+    "type": "Red",
+    "url": "https://battlecats.miraheze.org/wiki/Red_Marmod_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/70/E_620.png/300px-E_620.png"
+  },
+  {
+    "index": 626,
+    "name": "Black Marmod",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Black_Marmod_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/bf/E_621.png/300px-E_621.png"
+  },
+  {
+    "index": 627,
+    "name": "Sakura",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Sakura_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/c9/E_622.png/300px-E_622.png"
+  },
+  {
+    "index": 628,
+    "name": "Luke",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Luke_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/90/E_623.png/300px-E_623.png"
+  },
+  {
+    "index": 629,
+    "name": "Cumulus Gallus",
+    "type": "Traitless/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Cumulus_Gallus",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d8/E_624.png/300px-E_624.png"
+  },
+  {
+    "index": 630,
+    "name": "10th Anniv. Cake Doge",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/10th_Anniv._Cake_Doge_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/ef/E_625.png/300px-E_625.png"
+  },
+  {
+    "index": 631,
+    "name": "10th Anniversary Scarecrow",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/10th_Anniversary_Scarecrow_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/a/a3/E_626.png"
+  },
+  {
+    "index": 632,
+    "name": "Ancient Magamojoe",
+    "type": "Relic/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Ancient_Magamojoe",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/79/E_627.png/300px-E_627.png"
+  },
+  {
+    "index": 633,
+    "name": "Great Ape Luza",
+    "type": "Relic/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Great_Ape_Luza",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d3/E_628.png/300px-E_628.png"
+  },
+  {
+    "index": 634,
+    "name": "Zero Luza",
+    "type": "Relic/Colossus",
+    "url": "https://battlecats.miraheze.org/wiki/Zero_Luza",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/47/E_629.png/300px-E_629.png"
+  },
+  {
+    "index": 635,
+    "name": "Metafilibuster",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Metafilibuster_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/9d/E_630.png/300px-E_630.png"
+  },
+  {
+    "index": 636,
+    "name": "Rabbit Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Rabbit_Doge_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/8c/E_631.png/300px-E_631.png"
+  },
+  {
+    "index": 637,
+    "name": "Origin Base",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Origin_Base_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/e/e7/E_632.png"
+  },
+  {
+    "index": 638,
+    "name": "Killer Tank Cat",
+    "type": "Black",
+    "url": "https://battlecats.miraheze.org/wiki/Killer_Tank_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7a/E_633.png/300px-E_633.png"
+  },
+  {
+    "index": 639,
+    "name": "Vermilingua Rangmaster",
+    "type": "Aku/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Vermilingua_Rangmaster",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/09/E_634.png/300px-E_634.png"
+  },
+  {
+    "index": 640,
+    "name": "Easter Egg Cat",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Easter_Egg_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/42/E_635.png/300px-E_635.png"
+  },
+  {
+    "index": 641,
+    "name": "Devil Wife",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Devil_Wife",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/9d/E_636.png/300px-E_636.png"
+  },
+  {
+    "index": 642,
+    "name": "Omens",
+    "type": "Aku/Colossus",
+    "url": "https://battlecats.miraheze.org/wiki/Omens",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f8/E_637.png/300px-E_637.png"
+  },
+  {
+    "index": 643,
+    "name": "Mini White Cyclone",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Mini_White_Cyclone",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/46/E_638.png/300px-E_638.png"
+  },
+  {
+    "index": 644,
+    "name": "Infernal Pegasus Deonil",
+    "type": "Red/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Infernal_Pegasus_Deonil",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/29/E_639.png/300px-E_639.png"
+  },
+  {
+    "index": 645,
+    "name": "Suidae Piggicus",
+    "type": "Alien/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Suidae_Piggicus",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/f3/E_640.png/300px-E_640.png"
+  },
+  {
+    "index": 646,
+    "name": "Elephantidae Papaou",
+    "type": "Traitless/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Elephantidae_Papaou",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/1b/E_641.png/300px-E_641.png"
+  },
+  {
+    "index": 647,
+    "name": "Infernal Tyrant Nyandam",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Infernal_Tyrant_Nyandam",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/3f/E_642.png/300px-E_642.png"
+  },
+  {
+    "index": 648,
+    "name": "Grand Mage Mimon",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Grand_Mage_Mimon",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/66/E_643.png/300px-E_643.png"
+  },
+  {
+    "index": 649,
+    "name": "644",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/644_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/5/57/E_000.png"
+  },
+  {
+    "index": 650,
+    "name": "10th and 1/2 Anniversary Birthday Cake",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/10th_and_1/2_Anniversary_Birthday_Cake_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/7c/E_645.png/300px-E_645.png"
+  },
+  {
+    "index": 651,
+    "name": "Redhead Muscled Yuki Cat",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Redhead_Muscled_Yuki_Cat_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/07/E_646.png/300px-E_646.png"
+  },
+  {
+    "index": 652,
+    "name": "Eva Unit-13",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Eva_Unit-13_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d5/E_647.png/299px-E_647.png"
+  },
+  {
+    "index": 653,
+    "name": "Clown Base",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Clown_Base_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/6/66/E_648.png"
+  },
+  {
+    "index": 654,
+    "name": "Lutrinae Gokurakko",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Lutrinae_Gokurakko",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/30/E_649.png/300px-E_649.png"
+  },
+  {
+    "index": 655,
+    "name": "Iguanidae Ibilujon",
+    "type": "Relic/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Iguanidae_Ibilujon",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b5/E_650.png/300px-E_650.png"
+  },
+  {
+    "index": 656,
+    "name": "Finale Base",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/Finale_Base_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/f/f0/E_651.png"
+  },
+  {
+    "index": 657,
+    "name": "Lophiiformes Angaburu",
+    "type": "Zombie/Floating/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Lophiiformes_Angaburu",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/3a/E_652.png/300px-E_652.png"
+  },
+  {
+    "index": 658,
+    "name": "Kappy Kawano",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Kappy_Kawano",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/4a/E_653.png/299px-E_653.png"
+  },
+  {
+    "index": 659,
+    "name": "Mega Baa Baa",
+    "type": "Colossus",
+    "url": "https://battlecats.miraheze.org/wiki/Mega_Baa_Baa",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/ff/E_654.png/300px-E_654.png"
+  },
+  {
+    "index": 660,
+    "name": "Crocodylidae Kurocroc",
+    "type": "Black/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Crocodylidae_Kurocroc",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/57/E_655.png/300px-E_655.png"
+  },
+  {
+    "index": 661,
+    "name": "Hatsune Miku XVI",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Hatsune_Miku_XVI_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/45/E_656.png/300px-E_656.png"
+  },
+  {
+    "index": 662,
+    "name": "Relay Base",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Relay_Base_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e7/E_657.png/300px-E_657.png"
+  },
+  {
+    "index": 663,
+    "name": "Mini Angel Cyclone",
+    "type": "Angel",
+    "url": "https://battlecats.miraheze.org/wiki/Mini_Angel_Cyclone",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/51/E_658.png/300px-E_658.png"
+  },
+  {
+    "index": 664,
+    "name": "Ensanglion the Calamity",
+    "type": "Floating/Behemoth",
+    "url": "https://battlecats.miraheze.org/wiki/Ensanglion_the_Calamity",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/29/E_659.png/300px-E_659.png"
+  },
+  {
+    "index": 665,
+    "name": "Malevolent Mohawk Cat",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Malevolent_Mohawk_Cat",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/3a/E_660.png/300px-E_660.png"
+  },
+  {
+    "index": 666,
+    "name": "Malevolent Eraser Cat",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Malevolent_Eraser_Cat",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/c/cd/E_661.png/300px-E_661.png"
+  },
+  {
+    "index": 667,
+    "name": "Malevolent Dark Cat",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Malevolent_Dark_Cat",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2f/E_662.png/300px-E_662.png"
+  },
+  {
+    "index": 668,
+    "name": "Malevolent Macho Leg Cat",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Malevolent_Macho_Leg_Cat",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/0e/E_663.png/300px-E_663.png"
+  },
+  {
+    "index": 669,
+    "name": "Malevolent Lion Cat",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Malevolent_Lion_Cat",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/ea/E_664.png/300px-E_664.png"
+  },
+  {
+    "index": 670,
+    "name": "Malevolent Flying Cat",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Malevolent_Flying_Cat",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/13/E_665.png/300px-E_665.png"
+  },
+  {
+    "index": 671,
+    "name": "Malevolent Island Cat",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Malevolent_Island_Cat",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/69/E_666.png/300px-E_666.png"
+  },
+  {
+    "index": 672,
+    "name": "Malevolent King Dragon Cat",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Malevolent_King_Dragon_Cat",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/0b/E_667.png/300px-E_667.png"
+  },
+  {
+    "index": 673,
+    "name": "Malevolent Jamiera Cat",
+    "type": "Aku",
+    "url": "https://battlecats.miraheze.org/wiki/Malevolent_Jamiera_Cat",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b0/E_668.png/300px-E_668.png"
+  },
+  {
+    "index": 674,
+    "name": "Tsubo",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Tsubo_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/3a/E_669.png/300px-E_669.png"
+  },
+  {
+    "index": 675,
+    "name": "Secret Doge",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Secret_Doge_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/3b/E_670.png/300px-E_670.png"
+  },
+  {
+    "index": 676,
+    "name": "The Doge God",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/The_Doge_God_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/56/E_671.png/300px-E_671.png"
+  },
+  {
+    "index": 677,
+    "name": "11th Anniversary Birthday Cake",
+    "type": "Metal",
+    "url": "https://battlecats.miraheze.org/wiki/11th_Anniversary_Birthday_Cake_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2a/E_672.png/300px-E_672.png"
+  },
+  {
+    "index": 678,
+    "name": "11th Anniversary Scarecrow",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/11th_Anniversary_Scarecrow_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/5/55/E_673.png"
+  },
+  {
+    "index": 679,
+    "name": "Esoteric Uril",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/Esoteric_Uril_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/8e/E_674.png/300px-E_674.png"
+  },
+  {
+    "index": 680,
+    "name": "Sol Dae Rokker",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Sol_Dae_Rokker_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/b/b9/E_675.png/300px-E_675.png"
+  },
+  {
+    "index": 681,
+    "name": "Dragon Doge",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Dragon_Doge_(Event_Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2a/E_676.png/300px-E_676.png"
+  },
+  {
+    "index": 682,
+    "name": "Sage of Mind Soractes",
+    "type": "Floating/Sage",
+    "url": "https://battlecats.miraheze.org/wiki/Sage_of_Mind_Soractes",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/8f/E_677.png/300px-E_677.png"
+  },
+  {
+    "index": 683,
+    "name": "Killer Axe Cat Base",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Killer_Axe_Cat_Base_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/ff/E_678.png/300px-E_678.png"
+  },
+  {
+    "index": 684,
+    "name": "Dogenstein",
+    "type": "Traitless/Sage",
+    "url": "https://battlecats.miraheze.org/wiki/Dogenstein",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/34/E_679.png/300px-E_679.png"
+  },
+  {
+    "index": 685,
+    "name": "Tarsiriel",
+    "type": "Angel/Sage",
+    "url": "https://battlecats.miraheze.org/wiki/Tarsiriel",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/61/E_780.png/300px-E_780.png"
+  },
+  {
+    "index": 686,
+    "name": "Artillery Scarecrow",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Artillery_Scarecrow_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/80/E_681.png/300px-E_681.png"
+  },
+  {
+    "index": 687,
+    "name": "Dark Dober",
+    "type": "Black/Sage",
+    "url": "https://battlecats.miraheze.org/wiki/Dark_Dober",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2a/E_682.png/300px-E_682.png"
+  },
+  {
+    "index": 688,
+    "name": "Gigahaniwan",
+    "type": "Relic/Colossus",
+    "url": "https://battlecats.miraheze.org/wiki/Gigahaniwan",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/d/d6/E_683.png/300px-E_683.png"
+  },
+  {
+    "index": 689,
+    "name": "Mysterious Calamity",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Mysterious_Calamity",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/2b/E_684.png/300px-E_684.png"
+  },
+  {
+    "index": 690,
+    "name": "Possessed Doge God",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Possessed_Doge_God",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/6/63/E_685.png/300px-E_685.png"
+  },
+  {
+    "index": 691,
+    "name": "Voluptuous Peony - Daji",
+    "type": "Floating",
+    "url": "https://battlecats.miraheze.org/wiki/Voluptuous_Peony_-_Daji_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/3/37/E_686.png/300px-E_686.png"
+  },
+  {
+    "index": 692,
+    "name": "Madhead",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Madhead_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/4/4e/E_687.png/300px-E_687.png"
+  },
+  {
+    "index": 693,
+    "name": "Kenshin Himura",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Kenshin_Himura_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/e/e6/E_688.png/300px-E_688.png"
+  },
+  {
+    "index": 694,
+    "name": "Sanosuke Sagara",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Sanosuke_Sagara_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/5f/E_689.png/300px-E_689.png"
+  },
+  {
+    "index": 695,
+    "name": "Aoshi Shinomori",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Aoshi_Shinomori_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/a8/E_690.png/300px-E_690.png"
+  },
+  {
+    "index": 696,
+    "name": "Hajime Saito",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Hajime_Saito_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/a/ac/E_691.png/300px-E_691.png"
+  },
+  {
+    "index": 697,
+    "name": "Doctor K.O.",
+    "type": "Red/Sage",
+    "url": "https://battlecats.miraheze.org/wiki/Doctor_K.O.",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/7/79/E_692.png/300px-E_692.png"
+  },
+  {
+    "index": 698,
+    "name": "Wave Scarecrow",
+    "type": "Typeless",
+    "url": "https://battlecats.miraheze.org/wiki/Wave_Scarecrow_(Enemy_Base)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/0/06/E_693_en.png/300px-E_693_en.png"
+  },
+  {
+    "index": 699,
+    "name": "Techn-Old Hyena",
+    "type": "Alien (Star)/Sage",
+    "url": "https://battlecats.miraheze.org/wiki/Techn-Old_Hyena",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/5/53/E_694.png/300px-E_694.png"
+  },
+  {
+    "index": 700,
+    "name": "Log",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Log_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/2/28/E_695.png/300px-E_695.png"
+  },
+  {
+    "index": 701,
+    "name": "Boulder",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/Boulder_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/8/89/E_696.png/300px-E_696.png"
+  },
+  {
+    "index": 702,
+    "name": "Diabrollow",
+    "type": "Aku/Sage",
+    "url": "https://battlecats.miraheze.org/wiki/Diabrollow",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/f/fe/E_697.png/300px-E_697.png"
+  },
+  {
+    "index": 703,
+    "name": "698",
+    "type": "Zombie/Sage",
+    "url": "https://battlecats.miraheze.org/wiki/698",
+    "image": "https://static.miraheze.org/battlecatswiki/d/d9/E_698.png"
+  },
+  {
+    "index": 704,
+    "name": "699",
+    "type": "Relic/Sage",
+    "url": "https://battlecats.miraheze.org/wiki/699_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/e/ea/E_699.png"
+  },
+  {
+    "index": 705,
+    "name": "700",
+    "type": "Relic",
+    "url": "https://battlecats.miraheze.org/wiki/700_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/1/11/E_700.png/300px-E_700.png"
+  },
+  {
+    "index": 706,
+    "name": "701",
+    "type": "Traitless",
+    "url": "https://battlecats.miraheze.org/wiki/701_(Enemy)",
+    "image": "https://static.miraheze.org/battlecatswiki/thumb/9/96/E_701.png/300px-E_701.png"
+  }
+]

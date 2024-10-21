@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cat Table</title>
+    <title>Battle Cats and Enemies Information</title>
     <style>
         table {
             width: 100%;
@@ -21,17 +21,32 @@
             max-width: 100px;
             height: auto;
         }
+        .toggle-buttons {
+            margin-bottom: 20px;
+        }
+        .toggle-buttons button {
+            padding: 10px;
+            font-size: 16px;
+            margin-right: 10px;
+        }
     </style>
 </head>
 <body>
-    <h1>Battle Cats Information</h1>
+    <h1>Battle Cats and Enemies Information</h1>
+
+    <!-- Toggle buttons for Cats and Enemies -->
+    <div class="toggle-buttons">
+        <button onclick="loadData('cats')">Show Cats</button>
+        <button onclick="loadData('enemies')">Show Enemies</button>
+    </div>
+
     <table>
         <thead>
             <tr>
                 <th>Index</th>
                 <th>Name</th>
-                <th>Rarity</th>
-                <th>Forms</th>
+                <th>Rarity / Type</th>
+                <th>Forms / Stage</th>
                 <th>Image</th>
             </tr>
         </thead>
@@ -41,46 +56,56 @@
     </table>
 
     <script>
-    fetch('catsData.json')
-    .then(response => response.json())
-    .then(cats => {
-        const tableBody = document.getElementById('catTableBody');
+        function loadData(type) {
+            let jsonFile = type === 'cats' ? 'catsData.json' : 'enemiesData.json';
+            
+            fetch(jsonFile)
+            .then(response => response.json())
+            .then(data => {
+                const tableBody = document.getElementById('catTableBody');
+                tableBody.innerHTML = ''; // Clear previous rows
+                
+                data.forEach((item, index) => {
+                    const row = document.createElement('tr');
 
-        cats.forEach((cat, index) => {
-            const row = document.createElement('tr');
+                    const indexCell = document.createElement('td');
+                    indexCell.textContent = index + 1;
+                    row.appendChild(indexCell);
 
-            const indexCell = document.createElement('td');
-            indexCell.textContent = index + 1;
-            row.appendChild(indexCell);
+                    const nameCell = document.createElement('td');
+                    const nameLink = document.createElement('a');  // Create a link element
+                    nameLink.href = item.url;  // Set the href to the URL
+                    nameLink.textContent = item.name;  // Set the text to the name
+                    nameLink.target = "_blank";  // Optional: Opens the link in a new tab
+                    nameCell.appendChild(nameLink);  // Append the link to the nameCell
+                    row.appendChild(nameCell);
 
-            const nameCell = document.createElement('td');
-            const nameLink = document.createElement('a');  // Create a link element
-            nameLink.href = cat.url;  // Set the href to the cat URL
-            nameLink.textContent = cat.name;  // Set the text to the cat name
-            nameLink.target = "_blank";  // Optional: Opens the link in a new tab
-            nameCell.appendChild(nameLink);  // Append the link to the nameCell
-            row.appendChild(nameCell);
+                    const rarityOrTypeCell = document.createElement('td');
+                    rarityOrTypeCell.textContent = type === 'cats' ? item.rarity : item.type;
+                    row.appendChild(rarityOrTypeCell);
 
-            const rarityCell = document.createElement('td');
-            rarityCell.textContent = cat.rarity;
-            row.appendChild(rarityCell);
+                    const formsOrStageCell = document.createElement('td');
+                    formsOrStageCell.textContent = type === 'cats' ? item.forms : "Unknown"; // Example: "Unknown" for enemies, you can update based on your data
+                    row.appendChild(formsOrStageCell);
 
-            const formsCell = document.createElement('td');
-            formsCell.textContent = cat.forms;
-            row.appendChild(formsCell);
+                    const imageCell = document.createElement('td');
+                    const img = document.createElement('img');
+                    // Handle different image sources for cats and enemies
+                    img.src = type === 'cats' ? (item.images && item.images.length > 0 ? item.images[0].src : 'default-image.jpg') 
+                                              : item.image; // Direct image source for enemies
+                    imageCell.appendChild(img);
+                    row.appendChild(imageCell);
 
-            const imageCell = document.createElement('td');
-            const img = document.createElement('img');
-            img.src = cat.images[0].src;
-            imageCell.appendChild(img);
-            row.appendChild(imageCell);
+                    tableBody.appendChild(row);
+                });
+            })
+            .catch(error => {
+                console.error('Error loading data:', error);
+            });
+        }
 
-            tableBody.appendChild(row);
-        });
-    })
-    .catch(error => {
-        console.error('Error loading cat data:', error);
-    });
+        // Initially load cats
+        loadData('cats');
     </script>
 </body>
 </html>
